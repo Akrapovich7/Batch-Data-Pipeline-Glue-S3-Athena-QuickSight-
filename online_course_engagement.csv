@@ -1,0 +1,1001 @@
+user_id,course_id,course_name,category,event_type,event_timestamp,country,device,duration_minutes
+u_058,c_101,Python Basics,Programming,course_enroll,2025-04-20 13:53:34,UK,mobile,2
+u_053,c_109,SQL Fundamentals,Databases,video_watch,2025-03-05 20:06:24,South Africa,desktop,2
+u_016,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-19 21:06:35,UK,tablet,9
+u_014,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-20 15:51:59,Japan,desktop,3
+u_230,c_110,React for Beginners,Web Development,course_enroll,2025-03-27 00:24:51,USA,mobile,6
+u_175,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-03 07:46:36,UK,desktop,1
+u_048,c_107,Git & GitHub,Tools,video_watch,2025-03-16 00:44:02,France,desktop,38
+u_136,c_101,Python Basics,Programming,discussion_post,2025-03-26 13:06:26,Japan,mobile,6
+u_041,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-26 23:31:39,South Africa,desktop,9
+u_099,c_102,Data Science 101,Data Science,video_watch,2025-02-04 00:21:02,UK,desktop,5
+u_120,c_102,Data Science 101,Data Science,discussion_post,2025-04-15 14:04:37,Canada,desktop,10
+u_187,c_103,Excel for Finance,Business,course_enroll,2025-02-18 20:34:33,France,mobile,10
+u_137,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-22 21:50:23,Japan,tablet,3
+u_084,c_108,Cloud Security,Cloud,discussion_post,2025-02-27 11:14:22,Canada,tablet,8
+u_113,c_106,HTML & CSS,Web Development,video_watch,2025-02-26 14:54:57,UK,mobile,51
+u_162,c_107,Git & GitHub,Tools,course_enroll,2025-04-05 08:03:59,Germany,mobile,9
+u_162,c_104,Intro to AWS,Cloud,discussion_post,2025-03-19 12:41:30,Brazil,tablet,7
+u_074,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-03 08:29:20,UK,tablet,8
+u_276,c_105,Machine Learning,Data Science,discussion_post,2025-03-28 20:26:52,South Africa,desktop,5
+u_113,c_103,Excel for Finance,Business,discussion_post,2025-03-31 11:05:06,Germany,mobile,1
+u_079,c_103,Excel for Finance,Business,discussion_post,2025-04-28 16:02:59,South Africa,mobile,6
+u_196,c_110,React for Beginners,Web Development,discussion_post,2025-04-08 22:23:02,Japan,desktop,8
+u_006,c_102,Data Science 101,Data Science,course_enroll,2025-03-31 13:46:09,France,mobile,4
+u_223,c_103,Excel for Finance,Business,discussion_post,2025-04-14 06:45:50,USA,tablet,4
+u_257,c_103,Excel for Finance,Business,video_watch,2025-03-08 14:18:01,Canada,tablet,32
+u_102,c_103,Excel for Finance,Business,course_enroll,2025-03-15 11:11:45,India,tablet,8
+u_001,c_110,React for Beginners,Web Development,course_enroll,2025-03-22 01:00:41,Australia,mobile,1
+u_186,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-13 15:57:05,USA,mobile,9
+u_041,c_102,Data Science 101,Data Science,discussion_post,2025-02-22 12:46:13,Germany,tablet,2
+u_066,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-19 05:59:57,Canada,tablet,9
+u_217,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-02 13:14:29,Canada,desktop,10
+u_192,c_108,Cloud Security,Cloud,discussion_post,2025-03-04 20:35:16,Germany,mobile,3
+u_033,c_106,HTML & CSS,Web Development,video_watch,2025-01-30 17:26:49,South Africa,tablet,14
+u_113,c_101,Python Basics,Programming,video_watch,2025-02-06 14:27:43,USA,mobile,4
+u_017,c_106,HTML & CSS,Web Development,video_watch,2025-02-09 07:35:46,Japan,mobile,17
+u_249,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-09 10:17:26,South Africa,tablet,7
+u_125,c_108,Cloud Security,Cloud,discussion_post,2025-02-08 01:22:03,UK,mobile,1
+u_221,c_106,HTML & CSS,Web Development,discussion_post,2025-03-08 01:44:15,Brazil,desktop,0
+u_051,c_101,Python Basics,Programming,discussion_post,2025-02-21 20:39:36,France,mobile,3
+u_099,c_104,Intro to AWS,Cloud,discussion_post,2025-03-07 19:53:48,India,desktop,2
+u_143,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-01 22:17:58,Germany,desktop,8
+u_051,c_101,Python Basics,Programming,video_watch,2025-03-26 15:19:06,Germany,mobile,10
+u_209,c_108,Cloud Security,Cloud,discussion_post,2025-04-12 21:03:38,UK,desktop,0
+u_085,c_107,Git & GitHub,Tools,video_watch,2025-04-25 08:26:42,Brazil,desktop,59
+u_233,c_105,Machine Learning,Data Science,discussion_post,2025-04-23 13:08:54,Japan,tablet,7
+u_080,c_104,Intro to AWS,Cloud,course_enroll,2025-03-25 12:30:27,UK,mobile,9
+u_278,c_101,Python Basics,Programming,course_enroll,2025-04-27 09:03:07,USA,mobile,9
+u_245,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-11 02:07:32,USA,tablet,1
+u_096,c_102,Data Science 101,Data Science,video_watch,2025-02-12 11:08:04,UK,desktop,7
+u_292,c_104,Intro to AWS,Cloud,video_watch,2025-04-28 12:43:55,South Africa,mobile,26
+u_299,c_110,React for Beginners,Web Development,course_enroll,2025-04-22 23:32:27,Canada,mobile,10
+u_161,c_104,Intro to AWS,Cloud,course_enroll,2025-02-11 00:53:36,Brazil,mobile,10
+u_154,c_108,Cloud Security,Cloud,course_enroll,2025-02-26 17:14:43,Germany,mobile,7
+u_289,c_102,Data Science 101,Data Science,video_watch,2025-04-15 00:54:17,Japan,mobile,32
+u_136,c_103,Excel for Finance,Business,course_enroll,2025-04-09 17:34:03,Germany,mobile,5
+u_146,c_103,Excel for Finance,Business,discussion_post,2025-03-28 01:41:42,Japan,tablet,4
+u_271,c_101,Python Basics,Programming,course_enroll,2025-03-26 18:07:14,Germany,mobile,4
+u_060,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-12 14:16:13,Canada,desktop,9
+u_108,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-06 11:22:02,Canada,tablet,7
+u_129,c_101,Python Basics,Programming,video_watch,2025-04-18 14:14:57,Brazil,desktop,2
+u_002,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-29 12:08:53,Canada,mobile,7
+u_283,c_107,Git & GitHub,Tools,video_watch,2025-02-28 01:50:34,Germany,mobile,60
+u_077,c_109,SQL Fundamentals,Databases,video_watch,2025-04-17 00:56:00,France,tablet,35
+u_076,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-17 14:10:49,USA,desktop,5
+u_021,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-12 06:24:21,UK,tablet,1
+u_182,c_109,SQL Fundamentals,Databases,discussion_post,2025-02-05 01:37:02,South Africa,tablet,2
+u_122,c_103,Excel for Finance,Business,quiz_attempt,2025-03-17 15:26:12,Brazil,mobile,2
+u_171,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-21 23:08:40,Canada,mobile,1
+u_196,c_101,Python Basics,Programming,discussion_post,2025-04-21 07:52:57,UK,mobile,7
+u_180,c_105,Machine Learning,Data Science,quiz_attempt,2025-03-18 20:15:23,UK,mobile,10
+u_099,c_107,Git & GitHub,Tools,course_enroll,2025-04-13 21:58:05,Canada,mobile,4
+u_180,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-06 15:42:23,Japan,desktop,0
+u_060,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-06 20:59:15,South Africa,desktop,0
+u_056,c_110,React for Beginners,Web Development,discussion_post,2025-04-06 18:43:33,France,tablet,5
+u_224,c_110,React for Beginners,Web Development,video_watch,2025-04-01 07:18:33,Brazil,tablet,12
+u_131,c_101,Python Basics,Programming,discussion_post,2025-02-08 05:04:32,USA,tablet,8
+u_101,c_106,HTML & CSS,Web Development,discussion_post,2025-02-25 20:53:35,Germany,tablet,5
+u_161,c_102,Data Science 101,Data Science,course_enroll,2025-04-08 12:26:39,Japan,desktop,10
+u_210,c_106,HTML & CSS,Web Development,discussion_post,2025-03-27 15:31:13,Canada,tablet,2
+u_099,c_107,Git & GitHub,Tools,discussion_post,2025-03-06 18:15:48,India,tablet,9
+u_155,c_107,Git & GitHub,Tools,video_watch,2025-01-30 00:32:32,Canada,desktop,13
+u_221,c_110,React for Beginners,Web Development,course_enroll,2025-03-27 20:23:22,Australia,desktop,7
+u_110,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-15 06:53:41,India,tablet,1
+u_146,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-21 21:04:03,Germany,mobile,10
+u_159,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-06 16:42:28,India,mobile,0
+u_126,c_108,Cloud Security,Cloud,video_watch,2025-02-26 20:32:08,Australia,desktop,56
+u_295,c_104,Intro to AWS,Cloud,discussion_post,2025-04-19 01:06:02,Australia,desktop,3
+u_076,c_101,Python Basics,Programming,video_watch,2025-03-21 07:28:17,Brazil,mobile,11
+u_266,c_108,Cloud Security,Cloud,video_watch,2025-03-26 17:37:25,Japan,mobile,58
+u_063,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-11 04:48:55,Australia,tablet,8
+u_287,c_110,React for Beginners,Web Development,course_enroll,2025-02-18 00:12:31,Australia,tablet,8
+u_219,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-03 16:23:24,India,tablet,7
+u_231,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-23 01:32:16,Canada,tablet,7
+u_123,c_105,Machine Learning,Data Science,discussion_post,2025-02-15 19:26:50,Germany,tablet,4
+u_121,c_105,Machine Learning,Data Science,course_enroll,2025-04-06 12:59:53,France,tablet,1
+u_071,c_103,Excel for Finance,Business,quiz_attempt,2025-03-14 02:14:39,Brazil,tablet,2
+u_110,c_102,Data Science 101,Data Science,discussion_post,2025-02-14 04:04:55,Brazil,desktop,8
+u_239,c_107,Git & GitHub,Tools,video_watch,2025-02-01 20:29:01,UK,desktop,24
+u_300,c_101,Python Basics,Programming,discussion_post,2025-03-22 13:14:16,Australia,mobile,5
+u_153,c_107,Git & GitHub,Tools,discussion_post,2025-03-24 05:54:17,Japan,tablet,8
+u_113,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-05 15:24:26,Canada,desktop,7
+u_015,c_107,Git & GitHub,Tools,course_enroll,2025-02-16 15:33:22,Brazil,tablet,2
+u_240,c_103,Excel for Finance,Business,video_watch,2025-01-31 15:04:07,Brazil,tablet,36
+u_014,c_102,Data Science 101,Data Science,discussion_post,2025-02-13 09:02:24,India,desktop,2
+u_026,c_105,Machine Learning,Data Science,discussion_post,2025-02-05 12:05:01,France,mobile,7
+u_168,c_106,HTML & CSS,Web Development,discussion_post,2025-04-13 09:39:37,Canada,desktop,4
+u_042,c_108,Cloud Security,Cloud,video_watch,2025-03-11 03:15:48,Japan,mobile,60
+u_180,c_104,Intro to AWS,Cloud,video_watch,2025-04-29 08:29:52,USA,mobile,60
+u_127,c_104,Intro to AWS,Cloud,video_watch,2025-04-10 19:56:29,South Africa,mobile,15
+u_065,c_108,Cloud Security,Cloud,video_watch,2025-04-07 16:31:03,South Africa,mobile,29
+u_132,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-07 07:43:53,South Africa,tablet,1
+u_084,c_105,Machine Learning,Data Science,video_watch,2025-03-31 19:25:27,South Africa,mobile,59
+u_160,c_110,React for Beginners,Web Development,discussion_post,2025-04-01 20:43:34,Brazil,tablet,3
+u_039,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-18 21:49:31,Germany,tablet,4
+u_062,c_110,React for Beginners,Web Development,video_watch,2025-02-15 16:19:29,France,tablet,27
+u_190,c_102,Data Science 101,Data Science,course_enroll,2025-02-01 03:53:49,USA,desktop,7
+u_055,c_107,Git & GitHub,Tools,course_enroll,2025-03-03 18:25:08,Australia,tablet,2
+u_223,c_103,Excel for Finance,Business,course_enroll,2025-04-25 02:34:40,South Africa,tablet,7
+u_239,c_107,Git & GitHub,Tools,course_enroll,2025-02-04 23:59:11,France,mobile,1
+u_143,c_108,Cloud Security,Cloud,quiz_attempt,2025-01-29 21:48:49,Australia,tablet,9
+u_195,c_106,HTML & CSS,Web Development,video_watch,2025-04-27 02:10:07,Australia,desktop,11
+u_250,c_104,Intro to AWS,Cloud,course_enroll,2025-04-25 21:32:30,Canada,desktop,4
+u_142,c_109,SQL Fundamentals,Databases,video_watch,2025-02-05 12:17:52,Japan,mobile,5
+u_124,c_107,Git & GitHub,Tools,discussion_post,2025-04-27 08:06:30,Japan,mobile,7
+u_252,c_108,Cloud Security,Cloud,video_watch,2025-01-30 07:37:25,Germany,desktop,14
+u_208,c_104,Intro to AWS,Cloud,course_enroll,2025-02-12 04:05:24,South Africa,desktop,7
+u_284,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-15 01:22:59,Brazil,tablet,8
+u_170,c_106,HTML & CSS,Web Development,discussion_post,2025-04-18 10:14:05,Canada,desktop,4
+u_119,c_102,Data Science 101,Data Science,quiz_attempt,2025-04-20 18:32:02,France,mobile,8
+u_095,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-16 21:41:36,Australia,desktop,9
+u_269,c_110,React for Beginners,Web Development,course_enroll,2025-04-14 00:05:15,Germany,mobile,4
+u_117,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-19 07:49:37,Canada,mobile,8
+u_065,c_105,Machine Learning,Data Science,video_watch,2025-04-23 12:33:48,USA,tablet,18
+u_065,c_108,Cloud Security,Cloud,video_watch,2025-03-22 09:13:05,USA,tablet,18
+u_241,c_108,Cloud Security,Cloud,discussion_post,2025-03-28 19:54:59,France,mobile,0
+u_130,c_108,Cloud Security,Cloud,video_watch,2025-04-01 08:43:24,Germany,desktop,31
+u_038,c_110,React for Beginners,Web Development,video_watch,2025-03-07 02:56:45,India,mobile,51
+u_289,c_105,Machine Learning,Data Science,video_watch,2025-04-01 16:34:02,UK,mobile,35
+u_214,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-04 09:42:58,Japan,desktop,7
+u_227,c_105,Machine Learning,Data Science,discussion_post,2025-04-26 14:19:35,Canada,tablet,9
+u_031,c_110,React for Beginners,Web Development,video_watch,2025-04-25 02:34:47,UK,tablet,13
+u_136,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-14 04:48:17,UK,mobile,8
+u_039,c_103,Excel for Finance,Business,video_watch,2025-03-05 09:50:54,Brazil,desktop,44
+u_241,c_105,Machine Learning,Data Science,video_watch,2025-04-22 16:02:06,UK,desktop,45
+u_145,c_108,Cloud Security,Cloud,video_watch,2025-02-20 11:48:16,UK,desktop,50
+u_102,c_107,Git & GitHub,Tools,video_watch,2025-02-26 19:13:57,Japan,mobile,41
+u_077,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-21 01:23:06,Germany,mobile,2
+u_158,c_110,React for Beginners,Web Development,course_enroll,2025-03-10 04:53:41,Australia,mobile,7
+u_156,c_107,Git & GitHub,Tools,course_enroll,2025-04-04 10:54:04,Japan,tablet,7
+u_225,c_102,Data Science 101,Data Science,video_watch,2025-03-12 21:46:52,Brazil,tablet,20
+u_129,c_101,Python Basics,Programming,video_watch,2025-03-06 19:26:32,UK,tablet,53
+u_295,c_110,React for Beginners,Web Development,video_watch,2025-03-17 20:43:37,Canada,tablet,2
+u_090,c_108,Cloud Security,Cloud,discussion_post,2025-04-17 13:30:17,Canada,mobile,9
+u_224,c_108,Cloud Security,Cloud,video_watch,2025-04-22 05:57:56,Australia,desktop,26
+u_171,c_106,HTML & CSS,Web Development,video_watch,2025-01-30 03:56:23,India,desktop,26
+u_254,c_105,Machine Learning,Data Science,discussion_post,2025-03-29 13:53:11,Japan,mobile,7
+u_046,c_106,HTML & CSS,Web Development,course_enroll,2025-03-13 21:55:47,France,mobile,6
+u_264,c_101,Python Basics,Programming,discussion_post,2025-03-14 14:04:11,Brazil,mobile,3
+u_266,c_106,HTML & CSS,Web Development,discussion_post,2025-02-04 19:55:23,Australia,mobile,3
+u_137,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-03-02 19:37:17,Canada,desktop,7
+u_063,c_101,Python Basics,Programming,quiz_attempt,2025-03-21 05:50:47,India,desktop,8
+u_008,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-25 03:58:57,Germany,mobile,1
+u_237,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-28 13:19:40,Australia,tablet,4
+u_261,c_105,Machine Learning,Data Science,discussion_post,2025-04-26 04:49:16,Australia,desktop,3
+u_234,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-02 22:25:03,Brazil,mobile,9
+u_261,c_103,Excel for Finance,Business,video_watch,2025-03-23 09:26:01,Canada,desktop,21
+u_260,c_105,Machine Learning,Data Science,video_watch,2025-04-25 06:50:33,Canada,tablet,19
+u_297,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-08 13:02:54,Australia,tablet,7
+u_177,c_106,HTML & CSS,Web Development,discussion_post,2025-04-28 00:51:09,Australia,desktop,3
+u_123,c_110,React for Beginners,Web Development,discussion_post,2025-02-17 13:55:59,UK,desktop,0
+u_163,c_108,Cloud Security,Cloud,discussion_post,2025-04-15 14:46:42,Brazil,tablet,10
+u_078,c_108,Cloud Security,Cloud,video_watch,2025-03-13 01:47:26,India,tablet,37
+u_170,c_102,Data Science 101,Data Science,discussion_post,2025-02-10 02:16:12,Germany,tablet,7
+u_008,c_103,Excel for Finance,Business,discussion_post,2025-02-09 20:25:29,India,mobile,7
+u_136,c_106,HTML & CSS,Web Development,discussion_post,2025-02-11 09:03:53,Germany,desktop,10
+u_274,c_107,Git & GitHub,Tools,course_enroll,2025-02-03 03:39:14,Australia,tablet,0
+u_036,c_104,Intro to AWS,Cloud,course_enroll,2025-02-14 17:58:08,UK,tablet,1
+u_223,c_102,Data Science 101,Data Science,video_watch,2025-03-29 08:05:37,Australia,mobile,44
+u_154,c_101,Python Basics,Programming,video_watch,2025-03-19 08:43:04,France,mobile,18
+u_184,c_106,HTML & CSS,Web Development,discussion_post,2025-04-26 17:42:06,India,mobile,8
+u_211,c_110,React for Beginners,Web Development,quiz_attempt,2025-01-30 02:18:34,India,mobile,1
+u_196,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-18 03:25:10,Australia,tablet,2
+u_119,c_108,Cloud Security,Cloud,course_enroll,2025-04-12 10:20:31,Australia,desktop,10
+u_005,c_108,Cloud Security,Cloud,course_enroll,2025-01-31 13:30:36,Japan,mobile,1
+u_227,c_106,HTML & CSS,Web Development,course_enroll,2025-04-03 05:05:55,Brazil,tablet,4
+u_234,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-27 14:52:51,Brazil,desktop,1
+u_122,c_107,Git & GitHub,Tools,course_enroll,2025-03-16 06:19:31,South Africa,desktop,4
+u_012,c_107,Git & GitHub,Tools,course_enroll,2025-03-18 00:55:54,USA,tablet,10
+u_026,c_110,React for Beginners,Web Development,discussion_post,2025-04-06 00:55:02,Canada,mobile,9
+u_181,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-05 23:13:40,South Africa,desktop,10
+u_071,c_102,Data Science 101,Data Science,video_watch,2025-02-10 05:07:50,Canada,desktop,2
+u_297,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-27 12:03:22,Germany,desktop,5
+u_213,c_103,Excel for Finance,Business,quiz_attempt,2025-03-29 07:23:03,India,tablet,5
+u_272,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-13 20:31:48,India,desktop,7
+u_152,c_106,HTML & CSS,Web Development,video_watch,2025-03-28 17:07:09,Australia,mobile,9
+u_116,c_107,Git & GitHub,Tools,course_enroll,2025-02-17 16:33:15,Germany,desktop,0
+u_136,c_109,SQL Fundamentals,Databases,video_watch,2025-02-24 20:38:29,Australia,desktop,43
+u_135,c_110,React for Beginners,Web Development,discussion_post,2025-03-11 10:16:44,France,mobile,10
+u_120,c_108,Cloud Security,Cloud,video_watch,2025-03-14 21:47:38,South Africa,tablet,20
+u_114,c_102,Data Science 101,Data Science,discussion_post,2025-02-14 21:52:57,Canada,tablet,6
+u_060,c_103,Excel for Finance,Business,video_watch,2025-03-08 19:47:03,USA,desktop,31
+u_060,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-08 02:25:45,Japan,mobile,6
+u_233,c_106,HTML & CSS,Web Development,discussion_post,2025-03-30 15:52:40,South Africa,tablet,2
+u_213,c_102,Data Science 101,Data Science,discussion_post,2025-03-26 00:13:14,South Africa,desktop,4
+u_017,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-04 16:15:14,Australia,desktop,3
+u_186,c_102,Data Science 101,Data Science,course_enroll,2025-02-13 20:24:44,Japan,tablet,5
+u_032,c_107,Git & GitHub,Tools,course_enroll,2025-04-10 19:44:36,UK,mobile,7
+u_047,c_104,Intro to AWS,Cloud,video_watch,2025-03-03 01:28:03,USA,desktop,15
+u_065,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-11 16:38:16,Germany,tablet,3
+u_111,c_104,Intro to AWS,Cloud,course_enroll,2025-03-12 07:20:59,India,tablet,0
+u_142,c_103,Excel for Finance,Business,quiz_attempt,2025-02-01 14:06:31,Japan,desktop,2
+u_057,c_101,Python Basics,Programming,quiz_attempt,2025-03-15 12:31:51,USA,desktop,3
+u_166,c_101,Python Basics,Programming,quiz_attempt,2025-03-17 00:06:20,Canada,mobile,2
+u_216,c_109,SQL Fundamentals,Databases,video_watch,2025-04-11 10:55:38,Germany,desktop,28
+u_186,c_109,SQL Fundamentals,Databases,video_watch,2025-02-28 01:27:16,Australia,tablet,14
+u_023,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-19 05:45:45,Australia,tablet,0
+u_032,c_108,Cloud Security,Cloud,discussion_post,2025-03-10 08:14:04,Brazil,tablet,1
+u_252,c_108,Cloud Security,Cloud,video_watch,2025-03-30 13:55:17,Germany,desktop,38
+u_076,c_102,Data Science 101,Data Science,quiz_attempt,2025-01-30 09:03:57,Canada,tablet,10
+u_300,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-12 20:24:14,Brazil,tablet,8
+u_151,c_108,Cloud Security,Cloud,discussion_post,2025-02-19 09:28:38,Germany,tablet,1
+u_283,c_104,Intro to AWS,Cloud,discussion_post,2025-03-10 15:28:21,Australia,mobile,6
+u_174,c_108,Cloud Security,Cloud,discussion_post,2025-02-03 03:41:06,Brazil,tablet,1
+u_161,c_107,Git & GitHub,Tools,course_enroll,2025-04-02 03:43:50,Canada,desktop,2
+u_243,c_102,Data Science 101,Data Science,video_watch,2025-04-14 13:39:26,Germany,mobile,27
+u_050,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-14 01:48:37,Japan,mobile,9
+u_288,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-10 07:07:58,Germany,desktop,5
+u_217,c_101,Python Basics,Programming,course_enroll,2025-03-06 03:38:08,South Africa,desktop,5
+u_054,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-29 03:34:56,India,tablet,7
+u_115,c_102,Data Science 101,Data Science,course_enroll,2025-02-10 18:00:55,Japan,desktop,1
+u_143,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-19 00:05:21,Brazil,tablet,9
+u_286,c_101,Python Basics,Programming,course_enroll,2025-03-05 00:14:41,USA,mobile,4
+u_159,c_106,HTML & CSS,Web Development,course_enroll,2025-02-02 06:51:44,USA,mobile,2
+u_290,c_107,Git & GitHub,Tools,video_watch,2025-03-31 01:18:12,India,tablet,40
+u_016,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-14 05:25:03,Brazil,desktop,7
+u_175,c_103,Excel for Finance,Business,course_enroll,2025-04-09 19:27:05,Canada,tablet,5
+u_291,c_110,React for Beginners,Web Development,video_watch,2025-03-29 12:22:22,USA,mobile,10
+u_026,c_102,Data Science 101,Data Science,course_enroll,2025-04-07 11:39:41,Australia,tablet,6
+u_249,c_110,React for Beginners,Web Development,discussion_post,2025-04-08 02:50:33,Brazil,desktop,3
+u_263,c_102,Data Science 101,Data Science,course_enroll,2025-04-10 23:47:43,Brazil,mobile,4
+u_250,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-28 00:09:13,USA,mobile,6
+u_029,c_101,Python Basics,Programming,quiz_attempt,2025-04-04 03:42:59,Canada,mobile,2
+u_131,c_105,Machine Learning,Data Science,course_enroll,2025-02-05 06:01:51,Germany,mobile,7
+u_221,c_103,Excel for Finance,Business,quiz_attempt,2025-04-03 00:19:33,Brazil,tablet,3
+u_257,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-15 05:15:14,Germany,desktop,0
+u_224,c_101,Python Basics,Programming,discussion_post,2025-03-13 16:41:40,Germany,desktop,9
+u_220,c_110,React for Beginners,Web Development,discussion_post,2025-04-02 07:18:44,Brazil,desktop,1
+u_208,c_101,Python Basics,Programming,course_enroll,2025-04-12 21:10:45,India,tablet,7
+u_186,c_102,Data Science 101,Data Science,discussion_post,2025-02-02 18:15:17,Germany,mobile,6
+u_206,c_109,SQL Fundamentals,Databases,video_watch,2025-03-02 05:37:38,Brazil,desktop,47
+u_174,c_104,Intro to AWS,Cloud,course_enroll,2025-03-17 05:15:51,India,mobile,8
+u_059,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-08 08:17:33,France,desktop,10
+u_076,c_104,Intro to AWS,Cloud,video_watch,2025-03-17 06:44:23,India,desktop,12
+u_089,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-18 12:07:39,Germany,mobile,10
+u_253,c_108,Cloud Security,Cloud,discussion_post,2025-03-16 10:10:29,South Africa,tablet,10
+u_166,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-02 18:49:22,Australia,mobile,7
+u_227,c_105,Machine Learning,Data Science,course_enroll,2025-03-24 02:47:08,South Africa,mobile,5
+u_260,c_102,Data Science 101,Data Science,course_enroll,2025-04-02 09:40:10,Australia,desktop,0
+u_030,c_106,HTML & CSS,Web Development,course_enroll,2025-02-25 22:51:33,Germany,tablet,1
+u_260,c_107,Git & GitHub,Tools,discussion_post,2025-03-13 08:11:16,South Africa,tablet,0
+u_231,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-06 04:13:49,France,tablet,7
+u_257,c_103,Excel for Finance,Business,video_watch,2025-03-26 09:06:06,Australia,mobile,51
+u_176,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-02 02:06:37,USA,mobile,7
+u_225,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-07 10:22:15,France,desktop,4
+u_199,c_107,Git & GitHub,Tools,course_enroll,2025-02-10 16:03:15,South Africa,mobile,10
+u_172,c_102,Data Science 101,Data Science,course_enroll,2025-03-29 15:42:15,Germany,tablet,10
+u_198,c_105,Machine Learning,Data Science,course_enroll,2025-03-07 08:59:40,South Africa,mobile,5
+u_042,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-21 22:59:58,France,desktop,10
+u_201,c_103,Excel for Finance,Business,video_watch,2025-02-07 12:37:28,Canada,tablet,24
+u_169,c_103,Excel for Finance,Business,video_watch,2025-04-20 21:14:54,Brazil,tablet,23
+u_010,c_106,HTML & CSS,Web Development,course_enroll,2025-04-14 14:00:26,India,mobile,5
+u_249,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-10 23:46:18,India,mobile,1
+u_152,c_102,Data Science 101,Data Science,video_watch,2025-03-18 03:37:44,France,tablet,8
+u_193,c_103,Excel for Finance,Business,quiz_attempt,2025-03-10 02:21:29,India,tablet,9
+u_085,c_108,Cloud Security,Cloud,video_watch,2025-02-10 14:38:13,Brazil,desktop,43
+u_122,c_108,Cloud Security,Cloud,course_enroll,2025-04-07 11:35:37,Australia,mobile,8
+u_123,c_105,Machine Learning,Data Science,discussion_post,2025-03-30 09:19:15,UK,desktop,10
+u_293,c_108,Cloud Security,Cloud,discussion_post,2025-04-25 19:28:14,Canada,desktop,8
+u_271,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-23 04:46:51,UK,tablet,2
+u_129,c_101,Python Basics,Programming,discussion_post,2025-04-03 15:18:40,France,tablet,1
+u_265,c_102,Data Science 101,Data Science,course_enroll,2025-04-28 01:56:48,Germany,mobile,4
+u_231,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-02-23 19:57:58,Brazil,mobile,3
+u_231,c_106,HTML & CSS,Web Development,video_watch,2025-02-28 05:01:39,Brazil,mobile,25
+u_258,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-27 17:41:43,Brazil,mobile,5
+u_115,c_101,Python Basics,Programming,course_enroll,2025-04-06 22:43:25,Germany,tablet,10
+u_172,c_103,Excel for Finance,Business,quiz_attempt,2025-04-23 22:59:20,USA,desktop,7
+u_072,c_108,Cloud Security,Cloud,discussion_post,2025-03-12 11:38:33,South Africa,mobile,1
+u_010,c_105,Machine Learning,Data Science,quiz_attempt,2025-03-23 17:22:25,India,tablet,9
+u_271,c_107,Git & GitHub,Tools,video_watch,2025-02-13 06:54:06,Canada,mobile,19
+u_063,c_101,Python Basics,Programming,quiz_attempt,2025-03-29 09:38:31,Brazil,tablet,9
+u_235,c_102,Data Science 101,Data Science,video_watch,2025-02-03 11:17:49,Australia,tablet,34
+u_009,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-02-24 23:49:35,India,desktop,6
+u_001,c_110,React for Beginners,Web Development,course_enroll,2025-04-26 21:47:44,UK,tablet,6
+u_096,c_102,Data Science 101,Data Science,course_enroll,2025-04-07 04:44:06,Germany,tablet,8
+u_260,c_109,SQL Fundamentals,Databases,video_watch,2025-02-22 06:58:01,Brazil,desktop,2
+u_199,c_106,HTML & CSS,Web Development,course_enroll,2025-03-17 23:16:21,USA,desktop,1
+u_177,c_104,Intro to AWS,Cloud,video_watch,2025-02-28 23:27:18,South Africa,tablet,48
+u_171,c_103,Excel for Finance,Business,video_watch,2025-02-16 04:34:23,France,tablet,21
+u_090,c_108,Cloud Security,Cloud,discussion_post,2025-02-18 22:30:15,India,mobile,1
+u_235,c_101,Python Basics,Programming,course_enroll,2025-04-17 13:13:18,UK,mobile,3
+u_022,c_106,HTML & CSS,Web Development,course_enroll,2025-04-28 09:21:58,Japan,desktop,8
+u_243,c_105,Machine Learning,Data Science,video_watch,2025-02-08 21:07:13,UK,desktop,22
+u_025,c_106,HTML & CSS,Web Development,course_enroll,2025-02-10 02:35:33,Germany,desktop,6
+u_205,c_108,Cloud Security,Cloud,discussion_post,2025-04-26 14:54:19,France,mobile,7
+u_255,c_106,HTML & CSS,Web Development,course_enroll,2025-01-29 19:29:09,Germany,tablet,6
+u_041,c_107,Git & GitHub,Tools,quiz_attempt,2025-02-06 10:49:24,Japan,desktop,5
+u_053,c_102,Data Science 101,Data Science,course_enroll,2025-04-08 10:14:24,Canada,desktop,7
+u_219,c_103,Excel for Finance,Business,discussion_post,2025-02-01 06:01:44,France,desktop,0
+u_181,c_110,React for Beginners,Web Development,discussion_post,2025-02-28 03:25:53,Canada,tablet,0
+u_039,c_107,Git & GitHub,Tools,course_enroll,2025-02-15 08:43:49,Japan,tablet,10
+u_082,c_101,Python Basics,Programming,quiz_attempt,2025-02-21 06:46:13,South Africa,tablet,7
+u_018,c_103,Excel for Finance,Business,video_watch,2025-03-30 10:08:47,UK,tablet,23
+u_186,c_107,Git & GitHub,Tools,video_watch,2025-03-06 01:25:04,South Africa,mobile,43
+u_231,c_106,HTML & CSS,Web Development,course_enroll,2025-04-09 08:38:09,Australia,mobile,9
+u_071,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-11 09:50:04,Brazil,desktop,10
+u_143,c_104,Intro to AWS,Cloud,video_watch,2025-03-12 13:40:18,USA,tablet,11
+u_256,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-21 23:18:54,Japan,mobile,4
+u_134,c_108,Cloud Security,Cloud,quiz_attempt,2025-02-27 19:09:44,South Africa,desktop,7
+u_103,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-01 02:33:09,Germany,desktop,2
+u_228,c_102,Data Science 101,Data Science,course_enroll,2025-03-07 07:43:32,France,tablet,1
+u_282,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-19 04:15:25,Canada,mobile,10
+u_090,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-21 09:47:02,Germany,mobile,2
+u_122,c_108,Cloud Security,Cloud,video_watch,2025-02-19 11:29:35,France,tablet,36
+u_189,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-17 18:03:48,South Africa,mobile,1
+u_159,c_107,Git & GitHub,Tools,discussion_post,2025-03-23 04:12:58,Japan,desktop,6
+u_295,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-01 07:05:54,France,tablet,1
+u_231,c_108,Cloud Security,Cloud,course_enroll,2025-02-15 13:48:42,India,tablet,10
+u_094,c_103,Excel for Finance,Business,discussion_post,2025-02-01 21:23:51,Japan,mobile,1
+u_266,c_103,Excel for Finance,Business,course_enroll,2025-03-12 08:58:05,India,mobile,5
+u_116,c_106,HTML & CSS,Web Development,course_enroll,2025-04-10 06:54:06,Germany,desktop,3
+u_283,c_105,Machine Learning,Data Science,quiz_attempt,2025-03-08 07:03:53,Canada,tablet,8
+u_048,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-02-19 05:45:01,South Africa,tablet,2
+u_088,c_110,React for Beginners,Web Development,course_enroll,2025-02-23 21:06:44,South Africa,mobile,0
+u_042,c_101,Python Basics,Programming,course_enroll,2025-01-29 17:18:24,UK,tablet,6
+u_016,c_108,Cloud Security,Cloud,course_enroll,2025-02-25 11:54:55,Canada,desktop,3
+u_208,c_105,Machine Learning,Data Science,discussion_post,2025-04-09 17:38:09,Germany,tablet,0
+u_081,c_108,Cloud Security,Cloud,discussion_post,2025-02-23 02:16:08,Australia,desktop,3
+u_175,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-07 03:31:21,France,tablet,5
+u_177,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-14 09:52:56,France,tablet,8
+u_055,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-22 04:02:09,Australia,mobile,4
+u_231,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-18 08:26:59,Germany,mobile,4
+u_197,c_110,React for Beginners,Web Development,discussion_post,2025-02-24 12:28:46,UK,mobile,5
+u_296,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-24 02:11:21,India,desktop,8
+u_240,c_108,Cloud Security,Cloud,course_enroll,2025-03-29 10:39:35,Australia,mobile,1
+u_202,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-04 02:50:38,UK,mobile,9
+u_181,c_101,Python Basics,Programming,video_watch,2025-04-17 06:28:19,Canada,desktop,38
+u_241,c_105,Machine Learning,Data Science,video_watch,2025-03-23 00:20:21,Germany,desktop,8
+u_136,c_106,HTML & CSS,Web Development,discussion_post,2025-03-17 15:13:27,France,mobile,6
+u_027,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-16 22:02:08,France,tablet,4
+u_038,c_107,Git & GitHub,Tools,discussion_post,2025-03-27 13:32:20,Japan,desktop,9
+u_061,c_103,Excel for Finance,Business,video_watch,2025-03-03 19:06:43,Brazil,desktop,50
+u_174,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-27 15:19:33,India,mobile,9
+u_261,c_107,Git & GitHub,Tools,video_watch,2025-04-02 06:45:02,USA,mobile,8
+u_171,c_108,Cloud Security,Cloud,discussion_post,2025-03-16 12:06:17,India,tablet,8
+u_072,c_106,HTML & CSS,Web Development,course_enroll,2025-03-20 06:17:24,India,desktop,9
+u_154,c_110,React for Beginners,Web Development,course_enroll,2025-03-05 09:02:59,Japan,tablet,8
+u_251,c_110,React for Beginners,Web Development,course_enroll,2025-02-06 18:33:15,Australia,mobile,5
+u_170,c_102,Data Science 101,Data Science,discussion_post,2025-02-04 10:50:07,South Africa,desktop,10
+u_014,c_110,React for Beginners,Web Development,discussion_post,2025-02-26 15:07:00,Canada,tablet,9
+u_296,c_104,Intro to AWS,Cloud,video_watch,2025-02-02 19:36:13,South Africa,desktop,10
+u_269,c_110,React for Beginners,Web Development,discussion_post,2025-03-14 03:40:21,India,tablet,3
+u_017,c_110,React for Beginners,Web Development,video_watch,2025-04-16 04:40:55,UK,mobile,28
+u_161,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-26 22:11:03,Brazil,tablet,3
+u_211,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-16 03:25:23,USA,tablet,2
+u_266,c_104,Intro to AWS,Cloud,course_enroll,2025-03-27 13:24:22,Australia,tablet,6
+u_161,c_103,Excel for Finance,Business,discussion_post,2025-03-26 19:24:05,Japan,desktop,8
+u_182,c_105,Machine Learning,Data Science,discussion_post,2025-02-01 18:09:18,UK,mobile,4
+u_286,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-15 23:05:50,Canada,desktop,3
+u_251,c_106,HTML & CSS,Web Development,discussion_post,2025-03-10 14:45:36,France,tablet,4
+u_148,c_102,Data Science 101,Data Science,discussion_post,2025-03-14 19:28:40,Brazil,desktop,2
+u_149,c_101,Python Basics,Programming,course_enroll,2025-03-11 12:59:55,Germany,desktop,7
+u_132,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-09 08:45:17,UK,tablet,4
+u_288,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-02 11:24:14,Germany,tablet,9
+u_123,c_104,Intro to AWS,Cloud,video_watch,2025-04-25 06:15:01,Japan,mobile,40
+u_120,c_101,Python Basics,Programming,video_watch,2025-04-15 09:17:03,Brazil,desktop,45
+u_242,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-21 16:03:17,USA,tablet,2
+u_209,c_108,Cloud Security,Cloud,discussion_post,2025-02-17 14:40:34,UK,desktop,5
+u_147,c_101,Python Basics,Programming,video_watch,2025-03-03 15:35:10,South Africa,mobile,34
+u_020,c_103,Excel for Finance,Business,discussion_post,2025-03-17 10:00:23,India,mobile,6
+u_254,c_103,Excel for Finance,Business,course_enroll,2025-03-20 22:22:53,USA,mobile,4
+u_291,c_110,React for Beginners,Web Development,video_watch,2025-02-04 16:05:08,France,desktop,29
+u_279,c_109,SQL Fundamentals,Databases,discussion_post,2025-04-05 18:40:15,India,tablet,7
+u_140,c_104,Intro to AWS,Cloud,video_watch,2025-02-07 02:50:04,France,mobile,46
+u_235,c_105,Machine Learning,Data Science,quiz_attempt,2025-03-02 21:31:20,USA,tablet,5
+u_152,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-09 05:33:06,India,tablet,10
+u_208,c_107,Git & GitHub,Tools,course_enroll,2025-04-05 16:33:49,Germany,desktop,10
+u_049,c_103,Excel for Finance,Business,quiz_attempt,2025-03-25 22:59:54,Australia,desktop,3
+u_004,c_105,Machine Learning,Data Science,discussion_post,2025-03-27 16:08:06,UK,desktop,4
+u_169,c_105,Machine Learning,Data Science,video_watch,2025-02-17 13:54:09,Canada,tablet,23
+u_121,c_101,Python Basics,Programming,video_watch,2025-03-08 18:47:09,Australia,desktop,10
+u_208,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-16 20:11:18,Germany,tablet,4
+u_189,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-05 08:05:33,UK,mobile,7
+u_079,c_108,Cloud Security,Cloud,course_enroll,2025-04-27 20:08:47,Brazil,tablet,8
+u_242,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-13 16:36:14,UK,tablet,9
+u_042,c_109,SQL Fundamentals,Databases,discussion_post,2025-04-15 22:25:08,Japan,tablet,5
+u_040,c_110,React for Beginners,Web Development,video_watch,2025-02-28 17:41:52,USA,tablet,57
+u_259,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-02 19:46:52,India,desktop,8
+u_227,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-29 03:40:57,South Africa,desktop,1
+u_262,c_108,Cloud Security,Cloud,video_watch,2025-04-21 03:35:26,Australia,mobile,32
+u_213,c_108,Cloud Security,Cloud,video_watch,2025-04-11 15:35:14,Japan,desktop,43
+u_158,c_101,Python Basics,Programming,discussion_post,2025-04-28 03:31:43,Canada,mobile,3
+u_297,c_102,Data Science 101,Data Science,video_watch,2025-02-25 16:52:53,Brazil,desktop,44
+u_033,c_109,SQL Fundamentals,Databases,video_watch,2025-04-26 19:29:47,Germany,desktop,2
+u_147,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-20 21:03:07,India,tablet,10
+u_216,c_106,HTML & CSS,Web Development,discussion_post,2025-04-17 20:58:42,Australia,desktop,6
+u_042,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-19 14:02:10,France,mobile,2
+u_276,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-20 16:25:50,UK,mobile,0
+u_153,c_108,Cloud Security,Cloud,discussion_post,2025-02-22 11:31:41,Japan,desktop,3
+u_127,c_108,Cloud Security,Cloud,course_enroll,2025-02-04 00:54:12,India,desktop,3
+u_058,c_101,Python Basics,Programming,discussion_post,2025-03-16 05:55:13,South Africa,mobile,3
+u_106,c_102,Data Science 101,Data Science,video_watch,2025-03-27 16:32:01,South Africa,mobile,28
+u_025,c_104,Intro to AWS,Cloud,video_watch,2025-02-16 07:25:47,Brazil,desktop,14
+u_277,c_104,Intro to AWS,Cloud,video_watch,2025-03-22 22:14:25,India,tablet,18
+u_120,c_110,React for Beginners,Web Development,course_enroll,2025-04-19 11:56:19,South Africa,tablet,10
+u_165,c_104,Intro to AWS,Cloud,course_enroll,2025-04-01 21:15:02,India,tablet,8
+u_114,c_107,Git & GitHub,Tools,course_enroll,2025-03-22 18:08:12,Canada,mobile,8
+u_090,c_107,Git & GitHub,Tools,discussion_post,2025-04-13 02:23:18,USA,desktop,10
+u_196,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-28 03:39:30,Brazil,desktop,2
+u_154,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-24 21:41:56,Japan,desktop,3
+u_116,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-26 11:41:11,Australia,mobile,8
+u_212,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-20 00:36:25,Brazil,mobile,4
+u_105,c_106,HTML & CSS,Web Development,video_watch,2025-02-24 10:38:05,Australia,desktop,5
+u_275,c_104,Intro to AWS,Cloud,video_watch,2025-04-03 22:51:33,Canada,desktop,43
+u_021,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-20 21:10:50,South Africa,tablet,10
+u_287,c_104,Intro to AWS,Cloud,discussion_post,2025-04-19 23:42:58,UK,desktop,4
+u_008,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-25 15:21:11,Germany,tablet,7
+u_125,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-07 08:38:38,Brazil,mobile,8
+u_165,c_105,Machine Learning,Data Science,discussion_post,2025-02-25 22:29:24,Australia,tablet,10
+u_184,c_105,Machine Learning,Data Science,course_enroll,2025-03-18 00:54:11,France,tablet,7
+u_239,c_102,Data Science 101,Data Science,discussion_post,2025-03-02 00:55:10,France,mobile,5
+u_161,c_107,Git & GitHub,Tools,video_watch,2025-03-02 15:08:01,South Africa,mobile,47
+u_075,c_101,Python Basics,Programming,course_enroll,2025-04-16 05:16:36,Japan,tablet,9
+u_214,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-13 03:59:16,UK,desktop,3
+u_195,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-05 10:15:49,Australia,tablet,10
+u_173,c_105,Machine Learning,Data Science,discussion_post,2025-04-13 02:46:14,Australia,desktop,2
+u_181,c_103,Excel for Finance,Business,quiz_attempt,2025-03-20 13:55:04,Japan,desktop,2
+u_278,c_101,Python Basics,Programming,video_watch,2025-03-01 00:05:05,Germany,tablet,3
+u_004,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-30 00:54:22,UK,mobile,2
+u_005,c_104,Intro to AWS,Cloud,discussion_post,2025-03-02 22:54:01,France,mobile,9
+u_248,c_108,Cloud Security,Cloud,video_watch,2025-03-05 05:29:30,USA,tablet,35
+u_211,c_101,Python Basics,Programming,video_watch,2025-04-19 05:37:54,Japan,tablet,17
+u_275,c_105,Machine Learning,Data Science,video_watch,2025-03-03 04:04:22,Japan,tablet,43
+u_221,c_103,Excel for Finance,Business,video_watch,2025-02-04 16:48:04,Germany,tablet,9
+u_124,c_104,Intro to AWS,Cloud,course_enroll,2025-04-25 22:25:27,France,desktop,6
+u_041,c_106,HTML & CSS,Web Development,discussion_post,2025-03-29 18:05:07,Australia,tablet,3
+u_116,c_105,Machine Learning,Data Science,video_watch,2025-03-08 09:31:47,USA,mobile,25
+u_195,c_107,Git & GitHub,Tools,discussion_post,2025-04-23 16:03:34,USA,tablet,0
+u_088,c_102,Data Science 101,Data Science,discussion_post,2025-04-13 03:20:36,Brazil,tablet,5
+u_290,c_102,Data Science 101,Data Science,video_watch,2025-03-16 09:51:25,UK,mobile,57
+u_291,c_108,Cloud Security,Cloud,course_enroll,2025-03-10 14:02:20,USA,mobile,10
+u_144,c_109,SQL Fundamentals,Databases,video_watch,2025-02-18 23:31:45,India,desktop,1
+u_107,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-28 04:52:49,Brazil,mobile,4
+u_084,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-11 13:59:28,South Africa,desktop,10
+u_277,c_106,HTML & CSS,Web Development,discussion_post,2025-02-03 08:44:46,India,tablet,1
+u_257,c_106,HTML & CSS,Web Development,video_watch,2025-04-20 12:46:01,Germany,desktop,14
+u_039,c_106,HTML & CSS,Web Development,discussion_post,2025-03-12 07:06:51,France,mobile,10
+u_140,c_108,Cloud Security,Cloud,discussion_post,2025-03-04 15:28:38,UK,desktop,8
+u_193,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-13 16:21:01,South Africa,tablet,6
+u_044,c_110,React for Beginners,Web Development,course_enroll,2025-03-27 08:57:14,UK,tablet,1
+u_043,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-05 15:56:28,Brazil,tablet,10
+u_079,c_107,Git & GitHub,Tools,course_enroll,2025-02-08 05:26:39,France,mobile,1
+u_003,c_105,Machine Learning,Data Science,discussion_post,2025-03-02 17:10:38,France,desktop,1
+u_068,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-08 10:48:30,Brazil,desktop,8
+u_285,c_109,SQL Fundamentals,Databases,discussion_post,2025-02-19 20:25:16,Germany,mobile,1
+u_182,c_109,SQL Fundamentals,Databases,video_watch,2025-04-02 23:50:37,South Africa,tablet,50
+u_167,c_107,Git & GitHub,Tools,video_watch,2025-03-15 23:43:06,Canada,desktop,24
+u_044,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-01-31 18:42:11,South Africa,tablet,2
+u_195,c_103,Excel for Finance,Business,quiz_attempt,2025-01-30 06:08:08,Canada,desktop,4
+u_253,c_103,Excel for Finance,Business,video_watch,2025-04-24 19:26:08,India,desktop,17
+u_216,c_105,Machine Learning,Data Science,discussion_post,2025-02-24 00:34:59,Germany,desktop,4
+u_127,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-11 04:49:47,Australia,mobile,2
+u_156,c_101,Python Basics,Programming,discussion_post,2025-04-23 18:22:55,France,tablet,6
+u_169,c_108,Cloud Security,Cloud,course_enroll,2025-03-28 11:45:36,Brazil,tablet,9
+u_070,c_105,Machine Learning,Data Science,course_enroll,2025-03-01 00:55:28,South Africa,tablet,3
+u_246,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-28 20:28:37,Brazil,desktop,4
+u_252,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-31 10:57:30,France,desktop,4
+u_202,c_106,HTML & CSS,Web Development,video_watch,2025-03-06 11:56:59,South Africa,mobile,37
+u_280,c_103,Excel for Finance,Business,video_watch,2025-02-15 15:54:29,Australia,tablet,13
+u_225,c_105,Machine Learning,Data Science,video_watch,2025-03-22 07:10:00,Brazil,tablet,31
+u_072,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-02 11:31:18,Canada,tablet,2
+u_217,c_107,Git & GitHub,Tools,video_watch,2025-03-21 10:34:10,Australia,tablet,30
+u_299,c_107,Git & GitHub,Tools,discussion_post,2025-04-17 17:16:24,Japan,mobile,5
+u_275,c_110,React for Beginners,Web Development,video_watch,2025-03-10 15:22:34,Germany,mobile,42
+u_182,c_103,Excel for Finance,Business,video_watch,2025-03-12 13:48:38,South Africa,tablet,43
+u_205,c_106,HTML & CSS,Web Development,discussion_post,2025-04-27 12:44:53,Germany,mobile,1
+u_133,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-16 07:06:26,Australia,desktop,6
+u_238,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-17 08:23:50,France,mobile,7
+u_054,c_105,Machine Learning,Data Science,discussion_post,2025-03-28 19:23:48,Germany,mobile,2
+u_179,c_105,Machine Learning,Data Science,course_enroll,2025-03-24 19:41:10,Australia,mobile,8
+u_248,c_106,HTML & CSS,Web Development,discussion_post,2025-04-27 03:44:32,Germany,desktop,7
+u_164,c_102,Data Science 101,Data Science,course_enroll,2025-04-25 13:44:29,USA,tablet,1
+u_012,c_106,HTML & CSS,Web Development,video_watch,2025-02-08 17:23:04,India,tablet,15
+u_265,c_103,Excel for Finance,Business,quiz_attempt,2025-03-12 08:47:04,France,tablet,6
+u_237,c_104,Intro to AWS,Cloud,discussion_post,2025-02-01 23:26:12,India,mobile,10
+u_222,c_107,Git & GitHub,Tools,video_watch,2025-02-17 11:18:04,South Africa,mobile,28
+u_220,c_107,Git & GitHub,Tools,video_watch,2025-04-29 01:18:08,UK,mobile,17
+u_033,c_110,React for Beginners,Web Development,video_watch,2025-03-29 06:19:10,Japan,mobile,23
+u_167,c_104,Intro to AWS,Cloud,discussion_post,2025-02-17 06:03:28,Germany,desktop,10
+u_251,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-01 07:50:25,South Africa,desktop,9
+u_201,c_110,React for Beginners,Web Development,video_watch,2025-02-01 07:32:33,France,desktop,54
+u_235,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-15 04:12:41,Canada,tablet,9
+u_044,c_103,Excel for Finance,Business,course_enroll,2025-02-23 21:18:06,Germany,mobile,4
+u_060,c_103,Excel for Finance,Business,course_enroll,2025-02-14 23:49:52,India,tablet,6
+u_215,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-19 06:09:05,South Africa,desktop,6
+u_096,c_108,Cloud Security,Cloud,quiz_attempt,2025-02-09 07:05:53,Japan,mobile,7
+u_148,c_103,Excel for Finance,Business,quiz_attempt,2025-04-03 07:53:09,France,desktop,9
+u_028,c_106,HTML & CSS,Web Development,video_watch,2025-03-10 16:51:45,Australia,mobile,12
+u_197,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-20 02:58:15,Brazil,tablet,7
+u_213,c_108,Cloud Security,Cloud,discussion_post,2025-02-20 05:17:40,India,mobile,9
+u_016,c_104,Intro to AWS,Cloud,course_enroll,2025-02-17 09:17:31,USA,desktop,3
+u_276,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-25 19:58:03,Australia,tablet,7
+u_282,c_109,SQL Fundamentals,Databases,video_watch,2025-02-24 09:49:31,South Africa,mobile,17
+u_279,c_106,HTML & CSS,Web Development,video_watch,2025-02-13 09:35:08,Australia,tablet,13
+u_218,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-26 14:31:53,Canada,mobile,7
+u_135,c_106,HTML & CSS,Web Development,video_watch,2025-03-17 01:26:48,Australia,mobile,49
+u_122,c_104,Intro to AWS,Cloud,course_enroll,2025-02-26 11:54:11,South Africa,tablet,6
+u_085,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-14 20:23:41,UK,mobile,0
+u_292,c_106,HTML & CSS,Web Development,course_enroll,2025-04-23 10:26:05,South Africa,tablet,2
+u_166,c_105,Machine Learning,Data Science,course_enroll,2025-02-02 23:45:44,South Africa,desktop,8
+u_049,c_103,Excel for Finance,Business,discussion_post,2025-01-30 04:24:48,USA,desktop,10
+u_065,c_103,Excel for Finance,Business,quiz_attempt,2025-04-17 03:12:48,India,tablet,5
+u_127,c_107,Git & GitHub,Tools,discussion_post,2025-03-07 00:34:08,India,tablet,10
+u_138,c_107,Git & GitHub,Tools,discussion_post,2025-02-07 06:04:30,Australia,mobile,10
+u_048,c_107,Git & GitHub,Tools,course_enroll,2025-03-03 13:49:37,France,desktop,7
+u_168,c_110,React for Beginners,Web Development,video_watch,2025-04-23 19:22:37,Germany,tablet,29
+u_184,c_102,Data Science 101,Data Science,discussion_post,2025-03-01 16:34:51,UK,desktop,3
+u_254,c_105,Machine Learning,Data Science,course_enroll,2025-04-06 17:17:56,Canada,desktop,8
+u_296,c_103,Excel for Finance,Business,discussion_post,2025-02-25 12:19:23,France,tablet,0
+u_024,c_102,Data Science 101,Data Science,discussion_post,2025-03-20 12:51:30,USA,mobile,2
+u_226,c_108,Cloud Security,Cloud,video_watch,2025-02-06 02:46:39,Brazil,mobile,44
+u_068,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-14 09:28:48,Canada,mobile,10
+u_185,c_105,Machine Learning,Data Science,video_watch,2025-04-03 14:21:19,France,tablet,57
+u_085,c_101,Python Basics,Programming,discussion_post,2025-02-04 13:55:56,Canada,tablet,3
+u_220,c_102,Data Science 101,Data Science,video_watch,2025-03-06 08:51:39,USA,mobile,30
+u_040,c_103,Excel for Finance,Business,quiz_attempt,2025-04-18 19:13:43,Japan,tablet,7
+u_005,c_101,Python Basics,Programming,course_enroll,2025-04-06 21:02:46,Germany,desktop,2
+u_245,c_102,Data Science 101,Data Science,quiz_attempt,2025-01-31 16:14:47,Brazil,mobile,1
+u_053,c_106,HTML & CSS,Web Development,course_enroll,2025-03-16 20:11:34,Canada,mobile,6
+u_069,c_103,Excel for Finance,Business,video_watch,2025-04-21 07:35:57,Japan,tablet,0
+u_085,c_108,Cloud Security,Cloud,course_enroll,2025-03-10 20:21:55,UK,tablet,2
+u_211,c_110,React for Beginners,Web Development,discussion_post,2025-03-01 02:40:21,UK,mobile,1
+u_072,c_102,Data Science 101,Data Science,discussion_post,2025-03-06 07:05:01,France,desktop,5
+u_072,c_104,Intro to AWS,Cloud,course_enroll,2025-03-18 19:05:43,Germany,mobile,8
+u_146,c_101,Python Basics,Programming,course_enroll,2025-03-31 23:40:05,UK,tablet,9
+u_261,c_104,Intro to AWS,Cloud,discussion_post,2025-04-03 09:03:56,Canada,tablet,0
+u_123,c_108,Cloud Security,Cloud,discussion_post,2025-03-07 23:54:25,Germany,mobile,7
+u_037,c_109,SQL Fundamentals,Databases,video_watch,2025-03-18 00:58:31,France,desktop,8
+u_199,c_110,React for Beginners,Web Development,discussion_post,2025-02-19 20:16:51,France,tablet,10
+u_089,c_108,Cloud Security,Cloud,video_watch,2025-04-29 05:15:20,USA,tablet,4
+u_008,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-19 22:13:50,USA,mobile,6
+u_260,c_105,Machine Learning,Data Science,discussion_post,2025-02-19 05:20:11,Brazil,tablet,6
+u_043,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-02-06 16:35:10,Canada,mobile,4
+u_041,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-03-04 05:16:23,India,tablet,5
+u_201,c_110,React for Beginners,Web Development,video_watch,2025-03-09 06:47:39,Canada,tablet,27
+u_123,c_101,Python Basics,Programming,quiz_attempt,2025-03-18 21:00:13,Germany,desktop,1
+u_233,c_110,React for Beginners,Web Development,video_watch,2025-04-20 20:23:24,Canada,tablet,47
+u_090,c_102,Data Science 101,Data Science,video_watch,2025-03-22 06:01:32,India,tablet,0
+u_084,c_108,Cloud Security,Cloud,course_enroll,2025-03-14 18:23:23,Japan,tablet,4
+u_086,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-28 20:46:12,Canada,tablet,1
+u_016,c_106,HTML & CSS,Web Development,discussion_post,2025-03-14 03:31:34,Canada,tablet,1
+u_135,c_110,React for Beginners,Web Development,video_watch,2025-03-16 19:10:59,Australia,desktop,32
+u_185,c_101,Python Basics,Programming,discussion_post,2025-04-02 18:33:02,South Africa,mobile,5
+u_081,c_105,Machine Learning,Data Science,video_watch,2025-02-04 20:07:40,South Africa,tablet,46
+u_060,c_104,Intro to AWS,Cloud,video_watch,2025-04-08 06:11:14,USA,mobile,15
+u_024,c_108,Cloud Security,Cloud,course_enroll,2025-02-03 01:56:44,Brazil,mobile,2
+u_019,c_109,SQL Fundamentals,Databases,discussion_post,2025-02-22 01:20:01,UK,desktop,3
+u_214,c_106,HTML & CSS,Web Development,course_enroll,2025-03-22 16:52:48,Germany,tablet,5
+u_062,c_109,SQL Fundamentals,Databases,video_watch,2025-02-10 00:10:33,India,mobile,51
+u_265,c_101,Python Basics,Programming,discussion_post,2025-03-22 13:38:31,Germany,desktop,4
+u_160,c_106,HTML & CSS,Web Development,video_watch,2025-03-02 21:22:39,Japan,desktop,0
+u_189,c_104,Intro to AWS,Cloud,course_enroll,2025-02-27 16:40:28,South Africa,desktop,9
+u_125,c_108,Cloud Security,Cloud,course_enroll,2025-02-07 19:51:59,South Africa,desktop,3
+u_280,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-28 12:34:57,USA,desktop,0
+u_120,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-18 23:18:31,USA,desktop,0
+u_193,c_105,Machine Learning,Data Science,video_watch,2025-03-16 06:16:38,UK,tablet,15
+u_215,c_108,Cloud Security,Cloud,video_watch,2025-03-07 01:35:01,India,tablet,17
+u_048,c_101,Python Basics,Programming,quiz_attempt,2025-02-04 01:56:39,Japan,desktop,5
+u_235,c_102,Data Science 101,Data Science,video_watch,2025-03-22 05:08:21,Japan,mobile,40
+u_202,c_102,Data Science 101,Data Science,video_watch,2025-02-10 05:10:44,Brazil,tablet,8
+u_122,c_105,Machine Learning,Data Science,course_enroll,2025-04-02 03:26:45,France,desktop,5
+u_163,c_108,Cloud Security,Cloud,course_enroll,2025-03-13 08:28:05,UK,mobile,3
+u_070,c_110,React for Beginners,Web Development,video_watch,2025-03-15 17:22:06,India,mobile,10
+u_231,c_108,Cloud Security,Cloud,course_enroll,2025-03-21 00:04:03,Brazil,mobile,8
+u_184,c_104,Intro to AWS,Cloud,discussion_post,2025-02-13 05:06:50,Canada,desktop,4
+u_062,c_102,Data Science 101,Data Science,quiz_attempt,2025-04-28 13:06:02,Canada,tablet,9
+u_021,c_104,Intro to AWS,Cloud,course_enroll,2025-02-08 01:02:29,India,mobile,3
+u_183,c_107,Git & GitHub,Tools,video_watch,2025-03-27 19:38:33,Canada,desktop,52
+u_090,c_101,Python Basics,Programming,discussion_post,2025-04-29 03:28:20,Australia,tablet,8
+u_128,c_102,Data Science 101,Data Science,discussion_post,2025-04-19 03:27:05,Germany,mobile,1
+u_007,c_101,Python Basics,Programming,quiz_attempt,2025-04-06 14:56:57,India,mobile,6
+u_191,c_102,Data Science 101,Data Science,course_enroll,2025-04-11 22:21:48,Germany,mobile,1
+u_102,c_108,Cloud Security,Cloud,quiz_attempt,2025-02-10 02:31:27,Germany,desktop,1
+u_022,c_108,Cloud Security,Cloud,video_watch,2025-03-20 20:56:16,India,tablet,27
+u_203,c_108,Cloud Security,Cloud,video_watch,2025-01-30 17:18:41,Brazil,tablet,27
+u_089,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-21 10:22:31,India,desktop,4
+u_229,c_103,Excel for Finance,Business,video_watch,2025-02-08 11:35:53,South Africa,tablet,39
+u_126,c_105,Machine Learning,Data Science,discussion_post,2025-03-05 13:07:48,Brazil,tablet,7
+u_032,c_102,Data Science 101,Data Science,course_enroll,2025-04-11 01:15:48,Brazil,mobile,6
+u_103,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-03-25 09:11:42,Japan,mobile,6
+u_184,c_108,Cloud Security,Cloud,discussion_post,2025-02-27 17:09:06,France,tablet,8
+u_165,c_107,Git & GitHub,Tools,course_enroll,2025-03-14 06:57:46,India,mobile,5
+u_113,c_101,Python Basics,Programming,course_enroll,2025-02-06 22:57:41,USA,desktop,8
+u_184,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-13 17:00:10,India,mobile,3
+u_124,c_105,Machine Learning,Data Science,video_watch,2025-03-27 16:22:02,UK,tablet,54
+u_199,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-29 00:14:05,India,mobile,9
+u_163,c_106,HTML & CSS,Web Development,video_watch,2025-01-30 16:22:50,France,tablet,36
+u_073,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-01 15:02:34,Australia,tablet,4
+u_090,c_108,Cloud Security,Cloud,video_watch,2025-04-03 05:26:22,Germany,mobile,14
+u_113,c_101,Python Basics,Programming,discussion_post,2025-04-24 15:51:33,USA,desktop,9
+u_104,c_103,Excel for Finance,Business,course_enroll,2025-04-07 01:54:42,India,desktop,0
+u_012,c_103,Excel for Finance,Business,quiz_attempt,2025-03-09 12:14:49,Germany,tablet,5
+u_038,c_106,HTML & CSS,Web Development,discussion_post,2025-02-10 01:10:03,South Africa,mobile,5
+u_155,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-08 04:20:30,India,tablet,6
+u_250,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-03 17:03:19,Japan,tablet,9
+u_183,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-13 12:55:24,Brazil,desktop,4
+u_066,c_103,Excel for Finance,Business,video_watch,2025-04-14 17:28:48,South Africa,desktop,54
+u_291,c_101,Python Basics,Programming,quiz_attempt,2025-03-26 10:44:10,South Africa,desktop,9
+u_114,c_110,React for Beginners,Web Development,video_watch,2025-03-25 12:49:11,Australia,mobile,21
+u_040,c_104,Intro to AWS,Cloud,course_enroll,2025-03-04 06:37:27,France,mobile,10
+u_046,c_106,HTML & CSS,Web Development,discussion_post,2025-02-26 05:56:36,USA,desktop,3
+u_128,c_102,Data Science 101,Data Science,course_enroll,2025-02-25 20:08:48,Canada,mobile,0
+u_025,c_107,Git & GitHub,Tools,discussion_post,2025-04-03 23:52:55,Brazil,mobile,6
+u_253,c_107,Git & GitHub,Tools,course_enroll,2025-03-26 07:56:33,Japan,desktop,1
+u_246,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-27 16:40:00,India,desktop,1
+u_018,c_105,Machine Learning,Data Science,video_watch,2025-02-06 09:07:07,France,desktop,60
+u_054,c_102,Data Science 101,Data Science,course_enroll,2025-04-13 12:02:45,India,desktop,2
+u_039,c_109,SQL Fundamentals,Databases,video_watch,2025-02-22 10:40:43,France,tablet,39
+u_248,c_101,Python Basics,Programming,discussion_post,2025-03-21 10:16:50,India,tablet,6
+u_081,c_101,Python Basics,Programming,video_watch,2025-02-08 22:09:00,France,mobile,12
+u_210,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-04 07:55:13,Canada,desktop,3
+u_050,c_101,Python Basics,Programming,discussion_post,2025-02-22 01:59:16,South Africa,tablet,7
+u_079,c_101,Python Basics,Programming,course_enroll,2025-02-15 22:20:18,USA,desktop,1
+u_151,c_110,React for Beginners,Web Development,discussion_post,2025-04-16 12:56:42,UK,mobile,0
+u_106,c_103,Excel for Finance,Business,course_enroll,2025-04-22 16:46:29,Germany,desktop,1
+u_158,c_107,Git & GitHub,Tools,discussion_post,2025-02-21 18:15:24,Australia,tablet,4
+u_047,c_109,SQL Fundamentals,Databases,discussion_post,2025-04-04 20:41:45,India,desktop,6
+u_190,c_103,Excel for Finance,Business,discussion_post,2025-02-09 16:58:41,USA,desktop,7
+u_239,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-18 05:01:11,Canada,tablet,0
+u_078,c_102,Data Science 101,Data Science,video_watch,2025-01-31 07:24:37,France,tablet,26
+u_117,c_109,SQL Fundamentals,Databases,video_watch,2025-04-18 19:10:35,Brazil,tablet,26
+u_275,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-03 02:47:59,Australia,desktop,1
+u_203,c_101,Python Basics,Programming,quiz_attempt,2025-03-26 16:56:09,Germany,desktop,2
+u_086,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-22 13:49:39,India,mobile,6
+u_041,c_107,Git & GitHub,Tools,quiz_attempt,2025-02-14 05:06:43,India,tablet,4
+u_164,c_102,Data Science 101,Data Science,video_watch,2025-03-01 17:38:31,Brazil,tablet,25
+u_283,c_106,HTML & CSS,Web Development,course_enroll,2025-04-22 11:03:21,Japan,desktop,0
+u_268,c_107,Git & GitHub,Tools,video_watch,2025-03-02 19:15:52,Brazil,mobile,9
+u_291,c_110,React for Beginners,Web Development,video_watch,2025-02-08 02:20:33,Germany,tablet,49
+u_052,c_105,Machine Learning,Data Science,course_enroll,2025-04-01 07:18:06,Brazil,desktop,6
+u_249,c_110,React for Beginners,Web Development,discussion_post,2025-04-21 16:49:54,USA,mobile,4
+u_207,c_103,Excel for Finance,Business,discussion_post,2025-04-11 08:22:20,USA,desktop,5
+u_122,c_101,Python Basics,Programming,discussion_post,2025-04-06 13:16:39,Canada,desktop,0
+u_173,c_105,Machine Learning,Data Science,course_enroll,2025-03-05 18:50:13,Canada,desktop,10
+u_051,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-09 15:45:33,Canada,tablet,7
+u_165,c_105,Machine Learning,Data Science,discussion_post,2025-03-07 02:28:50,South Africa,tablet,1
+u_097,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-29 10:34:23,Brazil,tablet,7
+u_265,c_106,HTML & CSS,Web Development,video_watch,2025-03-28 21:25:03,Japan,mobile,4
+u_160,c_109,SQL Fundamentals,Databases,discussion_post,2025-02-20 14:24:36,India,tablet,9
+u_015,c_103,Excel for Finance,Business,quiz_attempt,2025-03-31 19:48:39,UK,mobile,3
+u_017,c_108,Cloud Security,Cloud,video_watch,2025-02-19 12:55:59,France,tablet,12
+u_141,c_106,HTML & CSS,Web Development,discussion_post,2025-02-01 18:49:10,Japan,desktop,10
+u_064,c_101,Python Basics,Programming,quiz_attempt,2025-03-08 09:10:37,France,desktop,9
+u_229,c_103,Excel for Finance,Business,discussion_post,2025-02-11 09:56:29,South Africa,tablet,5
+u_177,c_103,Excel for Finance,Business,course_enroll,2025-02-12 21:56:39,Germany,desktop,0
+u_198,c_101,Python Basics,Programming,quiz_attempt,2025-03-11 06:03:14,South Africa,mobile,3
+u_116,c_104,Intro to AWS,Cloud,course_enroll,2025-04-13 18:37:25,Brazil,tablet,0
+u_005,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-14 15:16:23,India,tablet,0
+u_115,c_105,Machine Learning,Data Science,course_enroll,2025-04-09 03:04:53,Canada,desktop,6
+u_179,c_108,Cloud Security,Cloud,course_enroll,2025-03-07 14:00:38,UK,desktop,4
+u_267,c_110,React for Beginners,Web Development,discussion_post,2025-02-23 12:20:13,South Africa,mobile,0
+u_262,c_106,HTML & CSS,Web Development,course_enroll,2025-04-03 12:41:36,Canada,tablet,1
+u_247,c_102,Data Science 101,Data Science,course_enroll,2025-04-23 17:13:01,Canada,tablet,5
+u_142,c_105,Machine Learning,Data Science,course_enroll,2025-03-13 01:03:01,UK,mobile,8
+u_124,c_101,Python Basics,Programming,discussion_post,2025-03-30 19:15:32,France,tablet,2
+u_014,c_108,Cloud Security,Cloud,course_enroll,2025-02-16 14:16:57,Canada,desktop,6
+u_199,c_101,Python Basics,Programming,quiz_attempt,2025-03-16 06:52:50,France,tablet,3
+u_274,c_108,Cloud Security,Cloud,course_enroll,2025-04-23 06:50:27,Japan,desktop,2
+u_286,c_103,Excel for Finance,Business,course_enroll,2025-03-19 15:02:17,Germany,desktop,2
+u_133,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-03-13 04:32:34,France,tablet,1
+u_114,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-22 17:06:38,Canada,desktop,5
+u_191,c_105,Machine Learning,Data Science,course_enroll,2025-03-16 02:43:05,Australia,mobile,7
+u_028,c_110,React for Beginners,Web Development,video_watch,2025-03-11 18:24:12,Australia,mobile,32
+u_062,c_107,Git & GitHub,Tools,course_enroll,2025-04-11 22:45:57,Brazil,mobile,2
+u_071,c_104,Intro to AWS,Cloud,course_enroll,2025-02-01 07:45:50,Brazil,tablet,7
+u_074,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-10 03:26:35,Germany,desktop,5
+u_091,c_106,HTML & CSS,Web Development,video_watch,2025-03-16 23:31:14,USA,desktop,17
+u_108,c_103,Excel for Finance,Business,quiz_attempt,2025-01-31 19:20:27,Australia,mobile,2
+u_223,c_107,Git & GitHub,Tools,discussion_post,2025-02-04 18:33:26,Brazil,desktop,6
+u_003,c_101,Python Basics,Programming,quiz_attempt,2025-02-27 17:01:17,France,mobile,5
+u_272,c_104,Intro to AWS,Cloud,video_watch,2025-04-09 12:13:17,USA,tablet,46
+u_128,c_104,Intro to AWS,Cloud,course_enroll,2025-04-02 00:20:29,Canada,mobile,1
+u_197,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-09 12:08:57,India,mobile,0
+u_153,c_105,Machine Learning,Data Science,discussion_post,2025-02-13 02:20:01,Japan,tablet,8
+u_173,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-11 20:22:18,France,desktop,5
+u_097,c_103,Excel for Finance,Business,discussion_post,2025-03-01 14:15:37,USA,mobile,3
+u_068,c_104,Intro to AWS,Cloud,video_watch,2025-03-22 11:31:02,South Africa,tablet,10
+u_064,c_106,HTML & CSS,Web Development,video_watch,2025-04-16 19:17:24,Brazil,tablet,16
+u_274,c_110,React for Beginners,Web Development,video_watch,2025-04-13 06:07:22,South Africa,mobile,42
+u_056,c_101,Python Basics,Programming,video_watch,2025-04-22 00:26:26,Germany,desktop,28
+u_195,c_102,Data Science 101,Data Science,course_enroll,2025-01-29 19:41:35,Australia,tablet,2
+u_106,c_101,Python Basics,Programming,course_enroll,2025-02-26 03:33:38,Brazil,tablet,1
+u_267,c_105,Machine Learning,Data Science,quiz_attempt,2025-03-13 13:47:33,Brazil,mobile,8
+u_061,c_105,Machine Learning,Data Science,video_watch,2025-03-13 08:46:29,Germany,desktop,12
+u_103,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-15 07:31:52,France,tablet,6
+u_152,c_103,Excel for Finance,Business,video_watch,2025-02-01 23:26:15,Japan,desktop,58
+u_107,c_108,Cloud Security,Cloud,course_enroll,2025-03-06 07:54:59,UK,mobile,0
+u_046,c_102,Data Science 101,Data Science,discussion_post,2025-02-12 09:45:13,India,mobile,8
+u_039,c_102,Data Science 101,Data Science,course_enroll,2025-04-27 15:18:48,UK,desktop,4
+u_136,c_108,Cloud Security,Cloud,video_watch,2025-04-20 19:01:36,Germany,mobile,55
+u_021,c_105,Machine Learning,Data Science,course_enroll,2025-04-16 03:34:28,France,desktop,1
+u_049,c_101,Python Basics,Programming,video_watch,2025-04-20 01:38:27,India,tablet,41
+u_088,c_106,HTML & CSS,Web Development,course_enroll,2025-02-05 19:42:12,Australia,tablet,4
+u_048,c_106,HTML & CSS,Web Development,course_enroll,2025-03-26 00:23:11,India,mobile,6
+u_205,c_108,Cloud Security,Cloud,course_enroll,2025-03-11 02:49:43,Brazil,tablet,7
+u_216,c_103,Excel for Finance,Business,video_watch,2025-03-31 06:08:00,India,tablet,46
+u_031,c_103,Excel for Finance,Business,video_watch,2025-02-24 03:27:49,Brazil,tablet,30
+u_292,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-01 04:32:27,South Africa,desktop,5
+u_015,c_103,Excel for Finance,Business,discussion_post,2025-02-03 04:07:17,Australia,mobile,6
+u_226,c_101,Python Basics,Programming,video_watch,2025-04-25 04:13:35,Canada,tablet,20
+u_007,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-28 17:20:50,France,tablet,8
+u_049,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-26 08:03:52,Australia,desktop,10
+u_198,c_103,Excel for Finance,Business,video_watch,2025-03-01 07:49:17,USA,tablet,59
+u_081,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-31 20:06:23,Australia,mobile,1
+u_252,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-01 14:09:26,France,desktop,0
+u_260,c_104,Intro to AWS,Cloud,discussion_post,2025-03-21 22:35:56,Brazil,mobile,1
+u_236,c_108,Cloud Security,Cloud,discussion_post,2025-04-11 16:11:46,Germany,desktop,7
+u_162,c_102,Data Science 101,Data Science,discussion_post,2025-02-11 19:33:03,USA,mobile,6
+u_212,c_101,Python Basics,Programming,video_watch,2025-02-15 03:12:34,Germany,tablet,39
+u_156,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-02-08 07:43:13,Australia,desktop,5
+u_028,c_104,Intro to AWS,Cloud,discussion_post,2025-04-12 10:39:09,France,tablet,9
+u_243,c_106,HTML & CSS,Web Development,discussion_post,2025-03-08 12:01:12,Germany,mobile,10
+u_114,c_101,Python Basics,Programming,course_enroll,2025-04-07 16:55:24,France,tablet,4
+u_281,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-05 23:24:33,Germany,mobile,2
+u_253,c_103,Excel for Finance,Business,discussion_post,2025-02-08 11:26:57,Germany,desktop,9
+u_101,c_104,Intro to AWS,Cloud,video_watch,2025-03-28 09:49:09,Brazil,mobile,29
+u_098,c_106,HTML & CSS,Web Development,video_watch,2025-02-14 04:17:35,Brazil,mobile,59
+u_064,c_108,Cloud Security,Cloud,discussion_post,2025-04-02 12:52:34,South Africa,tablet,2
+u_256,c_101,Python Basics,Programming,video_watch,2025-04-18 22:00:08,Japan,desktop,53
+u_300,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-12 00:29:23,South Africa,mobile,2
+u_054,c_107,Git & GitHub,Tools,course_enroll,2025-02-26 12:06:09,Japan,desktop,6
+u_128,c_105,Machine Learning,Data Science,discussion_post,2025-04-17 13:58:25,France,desktop,7
+u_069,c_103,Excel for Finance,Business,discussion_post,2025-03-11 20:06:26,South Africa,tablet,8
+u_154,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-03 08:40:15,Japan,tablet,3
+u_103,c_104,Intro to AWS,Cloud,course_enroll,2025-03-23 12:27:19,France,tablet,2
+u_092,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-20 19:41:26,Germany,desktop,8
+u_246,c_110,React for Beginners,Web Development,discussion_post,2025-02-24 01:23:02,Japan,desktop,6
+u_007,c_109,SQL Fundamentals,Databases,video_watch,2025-04-22 06:38:20,USA,desktop,9
+u_028,c_101,Python Basics,Programming,quiz_attempt,2025-04-19 08:22:24,Canada,mobile,4
+u_129,c_103,Excel for Finance,Business,video_watch,2025-02-27 19:40:23,Canada,mobile,48
+u_278,c_101,Python Basics,Programming,course_enroll,2025-02-14 22:33:04,Australia,mobile,9
+u_288,c_104,Intro to AWS,Cloud,discussion_post,2025-02-23 01:54:10,UK,tablet,4
+u_025,c_107,Git & GitHub,Tools,discussion_post,2025-04-29 05:34:18,Brazil,tablet,5
+u_283,c_101,Python Basics,Programming,video_watch,2025-02-12 12:22:39,Canada,mobile,39
+u_227,c_104,Intro to AWS,Cloud,course_enroll,2025-04-12 12:39:45,South Africa,tablet,9
+u_101,c_104,Intro to AWS,Cloud,course_enroll,2025-02-06 20:56:12,Australia,mobile,10
+u_039,c_103,Excel for Finance,Business,quiz_attempt,2025-03-18 05:25:58,Japan,mobile,6
+u_021,c_107,Git & GitHub,Tools,course_enroll,2025-04-23 15:58:21,Japan,desktop,2
+u_083,c_110,React for Beginners,Web Development,course_enroll,2025-02-09 07:16:06,USA,desktop,7
+u_080,c_101,Python Basics,Programming,quiz_attempt,2025-02-19 15:20:35,France,tablet,0
+u_155,c_108,Cloud Security,Cloud,course_enroll,2025-02-15 05:24:50,Germany,tablet,5
+u_270,c_104,Intro to AWS,Cloud,quiz_attempt,2025-02-06 07:42:27,Japan,mobile,8
+u_082,c_107,Git & GitHub,Tools,discussion_post,2025-03-06 04:43:54,Germany,desktop,3
+u_110,c_106,HTML & CSS,Web Development,course_enroll,2025-04-22 18:51:40,France,desktop,3
+u_272,c_108,Cloud Security,Cloud,video_watch,2025-04-03 04:42:27,Germany,tablet,22
+u_229,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-02 17:24:54,USA,tablet,5
+u_196,c_102,Data Science 101,Data Science,discussion_post,2025-02-20 20:16:36,Canada,tablet,4
+u_013,c_109,SQL Fundamentals,Databases,course_enroll,2025-04-05 17:00:04,Japan,tablet,7
+u_250,c_101,Python Basics,Programming,course_enroll,2025-02-17 19:40:57,UK,desktop,8
+u_043,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-17 00:47:55,Japan,tablet,0
+u_034,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-08 06:15:48,Brazil,mobile,3
+u_276,c_107,Git & GitHub,Tools,video_watch,2025-02-24 05:12:02,India,mobile,29
+u_170,c_101,Python Basics,Programming,video_watch,2025-03-27 09:11:57,Germany,mobile,11
+u_129,c_109,SQL Fundamentals,Databases,video_watch,2025-04-17 06:20:25,South Africa,mobile,58
+u_133,c_107,Git & GitHub,Tools,discussion_post,2025-04-16 02:29:35,Australia,tablet,6
+u_222,c_106,HTML & CSS,Web Development,video_watch,2025-03-08 22:21:36,Brazil,tablet,7
+u_274,c_101,Python Basics,Programming,video_watch,2025-04-12 04:36:03,South Africa,mobile,44
+u_038,c_106,HTML & CSS,Web Development,video_watch,2025-03-14 01:34:53,Canada,tablet,19
+u_045,c_105,Machine Learning,Data Science,discussion_post,2025-04-27 08:15:17,Brazil,desktop,10
+u_016,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-22 10:12:39,Japan,mobile,2
+u_201,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-09 07:03:01,India,desktop,10
+u_192,c_101,Python Basics,Programming,quiz_attempt,2025-04-23 16:32:07,Germany,mobile,0
+u_294,c_110,React for Beginners,Web Development,discussion_post,2025-04-14 15:39:24,Japan,tablet,1
+u_157,c_104,Intro to AWS,Cloud,course_enroll,2025-03-15 02:17:43,UK,desktop,10
+u_263,c_103,Excel for Finance,Business,quiz_attempt,2025-04-11 00:14:26,India,mobile,9
+u_130,c_104,Intro to AWS,Cloud,video_watch,2025-03-15 21:00:52,India,tablet,51
+u_291,c_101,Python Basics,Programming,discussion_post,2025-04-10 03:18:36,Japan,mobile,4
+u_035,c_105,Machine Learning,Data Science,video_watch,2025-04-14 04:07:08,UK,tablet,37
+u_250,c_106,HTML & CSS,Web Development,course_enroll,2025-03-26 09:21:34,India,tablet,10
+u_121,c_102,Data Science 101,Data Science,course_enroll,2025-04-05 20:38:51,South Africa,mobile,3
+u_163,c_108,Cloud Security,Cloud,discussion_post,2025-04-13 01:09:15,France,tablet,10
+u_157,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-11 23:00:07,South Africa,tablet,5
+u_162,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-26 00:47:43,USA,desktop,3
+u_114,c_107,Git & GitHub,Tools,course_enroll,2025-02-05 04:50:40,France,mobile,10
+u_170,c_108,Cloud Security,Cloud,discussion_post,2025-03-15 04:25:46,Australia,desktop,4
+u_250,c_109,SQL Fundamentals,Databases,video_watch,2025-04-07 06:52:51,India,tablet,38
+u_042,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-12 07:54:29,Japan,mobile,4
+u_040,c_102,Data Science 101,Data Science,video_watch,2025-04-28 10:39:13,Japan,tablet,1
+u_298,c_110,React for Beginners,Web Development,discussion_post,2025-04-01 07:55:02,South Africa,mobile,0
+u_283,c_105,Machine Learning,Data Science,discussion_post,2025-01-31 19:22:19,India,desktop,6
+u_115,c_110,React for Beginners,Web Development,course_enroll,2025-03-10 00:38:54,India,desktop,8
+u_262,c_102,Data Science 101,Data Science,discussion_post,2025-03-20 17:07:18,France,tablet,0
+u_123,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-19 13:43:36,Japan,mobile,7
+u_082,c_103,Excel for Finance,Business,quiz_attempt,2025-02-13 23:09:16,Australia,desktop,0
+u_113,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-18 15:08:54,Germany,desktop,5
+u_120,c_101,Python Basics,Programming,quiz_attempt,2025-02-17 14:13:29,Japan,desktop,6
+u_241,c_108,Cloud Security,Cloud,video_watch,2025-02-08 15:55:49,USA,tablet,20
+u_053,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-13 06:31:03,Canada,tablet,8
+u_292,c_103,Excel for Finance,Business,discussion_post,2025-04-17 16:55:26,Brazil,desktop,9
+u_040,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-09 04:40:07,Brazil,mobile,8
+u_208,c_106,HTML & CSS,Web Development,course_enroll,2025-03-12 05:12:04,Australia,desktop,9
+u_004,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-13 01:46:46,Australia,mobile,3
+u_040,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-20 13:48:44,UK,mobile,2
+u_081,c_106,HTML & CSS,Web Development,video_watch,2025-03-23 14:56:49,UK,desktop,51
+u_170,c_102,Data Science 101,Data Science,discussion_post,2025-04-13 14:03:30,Australia,desktop,3
+u_083,c_107,Git & GitHub,Tools,video_watch,2025-03-13 21:26:44,UK,mobile,8
+u_294,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-27 23:09:09,India,tablet,8
+u_021,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-07 14:06:23,USA,mobile,4
+u_093,c_109,SQL Fundamentals,Databases,discussion_post,2025-04-08 06:49:56,South Africa,tablet,10
+u_010,c_105,Machine Learning,Data Science,video_watch,2025-03-08 01:25:26,UK,desktop,38
+u_242,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-08 06:02:25,UK,desktop,9
+u_074,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-08 18:33:19,South Africa,tablet,8
+u_136,c_103,Excel for Finance,Business,course_enroll,2025-03-27 04:08:00,Australia,tablet,9
+u_036,c_104,Intro to AWS,Cloud,discussion_post,2025-04-20 22:49:50,Brazil,mobile,1
+u_009,c_104,Intro to AWS,Cloud,discussion_post,2025-04-09 15:53:42,India,tablet,1
+u_091,c_108,Cloud Security,Cloud,video_watch,2025-02-02 16:41:23,Japan,tablet,48
+u_061,c_102,Data Science 101,Data Science,discussion_post,2025-02-07 16:55:18,India,tablet,8
+u_001,c_107,Git & GitHub,Tools,discussion_post,2025-03-17 11:07:37,France,mobile,8
+u_220,c_104,Intro to AWS,Cloud,discussion_post,2025-04-06 09:36:23,Brazil,desktop,9
+u_295,c_102,Data Science 101,Data Science,discussion_post,2025-03-21 10:36:25,India,desktop,7
+u_120,c_102,Data Science 101,Data Science,course_enroll,2025-04-29 04:39:56,South Africa,tablet,6
+u_132,c_104,Intro to AWS,Cloud,video_watch,2025-04-11 04:42:37,USA,tablet,33
+u_061,c_109,SQL Fundamentals,Databases,video_watch,2025-02-21 23:34:51,Brazil,tablet,13
+u_162,c_107,Git & GitHub,Tools,course_enroll,2025-01-30 22:49:42,Germany,mobile,6
+u_300,c_105,Machine Learning,Data Science,course_enroll,2025-04-06 04:50:36,Japan,desktop,9
+u_188,c_110,React for Beginners,Web Development,course_enroll,2025-02-22 17:15:29,Brazil,mobile,6
+u_283,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-13 19:14:11,India,desktop,8
+u_285,c_108,Cloud Security,Cloud,course_enroll,2025-02-20 03:06:42,Canada,tablet,5
+u_204,c_103,Excel for Finance,Business,video_watch,2025-02-10 22:06:30,UK,desktop,50
+u_083,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-01 23:25:06,Japan,desktop,5
+u_282,c_110,React for Beginners,Web Development,video_watch,2025-02-26 04:09:24,India,desktop,40
+u_003,c_102,Data Science 101,Data Science,quiz_attempt,2025-04-11 05:48:42,Australia,tablet,6
+u_046,c_102,Data Science 101,Data Science,course_enroll,2025-02-02 01:32:24,UK,desktop,1
+u_020,c_107,Git & GitHub,Tools,discussion_post,2025-03-29 01:48:56,South Africa,tablet,8
+u_147,c_110,React for Beginners,Web Development,video_watch,2025-02-07 11:19:15,India,tablet,31
+u_225,c_101,Python Basics,Programming,quiz_attempt,2025-03-28 14:16:42,Japan,desktop,3
+u_018,c_110,React for Beginners,Web Development,quiz_attempt,2025-03-16 03:07:25,South Africa,mobile,10
+u_019,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-17 04:39:59,USA,mobile,1
+u_142,c_107,Git & GitHub,Tools,course_enroll,2025-04-01 19:49:45,Brazil,desktop,9
+u_103,c_109,SQL Fundamentals,Databases,video_watch,2025-04-21 11:59:35,Germany,mobile,35
+u_146,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-17 07:01:55,France,desktop,3
+u_100,c_108,Cloud Security,Cloud,discussion_post,2025-04-28 00:20:37,South Africa,mobile,4
+u_090,c_107,Git & GitHub,Tools,video_watch,2025-02-24 15:53:12,Japan,mobile,32
+u_151,c_106,HTML & CSS,Web Development,video_watch,2025-03-09 10:41:54,Japan,desktop,56
+u_276,c_110,React for Beginners,Web Development,course_enroll,2025-04-21 21:07:22,Australia,desktop,9
+u_248,c_104,Intro to AWS,Cloud,course_enroll,2025-04-23 20:48:20,Australia,tablet,7
+u_015,c_108,Cloud Security,Cloud,video_watch,2025-02-20 04:52:24,Canada,mobile,24
+u_113,c_104,Intro to AWS,Cloud,course_enroll,2025-03-10 19:26:48,Brazil,desktop,8
+u_275,c_101,Python Basics,Programming,course_enroll,2025-04-02 06:17:35,UK,desktop,1
+u_205,c_106,HTML & CSS,Web Development,video_watch,2025-03-22 03:25:45,Japan,mobile,30
+u_161,c_106,HTML & CSS,Web Development,quiz_attempt,2025-02-11 19:02:15,South Africa,desktop,2
+u_098,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-07 08:35:21,UK,tablet,3
+u_136,c_104,Intro to AWS,Cloud,quiz_attempt,2025-01-30 15:34:19,UK,mobile,9
+u_183,c_103,Excel for Finance,Business,video_watch,2025-03-05 13:55:43,Germany,mobile,43
+u_253,c_110,React for Beginners,Web Development,video_watch,2025-02-16 23:18:54,Japan,mobile,54
+u_247,c_106,HTML & CSS,Web Development,course_enroll,2025-04-04 04:53:15,Australia,tablet,4
+u_252,c_103,Excel for Finance,Business,course_enroll,2025-04-14 16:45:54,Brazil,mobile,9
+u_066,c_101,Python Basics,Programming,discussion_post,2025-04-12 06:36:01,Australia,tablet,0
+u_258,c_106,HTML & CSS,Web Development,discussion_post,2025-02-26 22:05:39,India,desktop,1
+u_266,c_108,Cloud Security,Cloud,course_enroll,2025-02-28 00:43:13,USA,mobile,10
+u_108,c_107,Git & GitHub,Tools,video_watch,2025-03-13 18:50:29,France,desktop,39
+u_133,c_103,Excel for Finance,Business,course_enroll,2025-03-19 17:11:28,UK,desktop,7
+u_176,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-15 21:04:07,Australia,desktop,3
+u_215,c_106,HTML & CSS,Web Development,course_enroll,2025-02-21 00:45:05,Brazil,desktop,7
+u_093,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-09 16:44:14,South Africa,tablet,3
+u_052,c_105,Machine Learning,Data Science,quiz_attempt,2025-04-17 02:51:49,Japan,desktop,6
+u_101,c_103,Excel for Finance,Business,quiz_attempt,2025-02-24 19:38:23,Australia,mobile,2
+u_216,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-31 01:38:31,Japan,tablet,5
+u_250,c_105,Machine Learning,Data Science,course_enroll,2025-03-29 15:23:27,Japan,tablet,0
+u_204,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-07 12:19:38,USA,mobile,4
+u_244,c_102,Data Science 101,Data Science,discussion_post,2025-04-27 06:32:37,France,desktop,5
+u_185,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-18 13:31:20,France,mobile,6
+u_063,c_106,HTML & CSS,Web Development,quiz_attempt,2025-04-05 23:46:18,South Africa,tablet,10
+u_276,c_103,Excel for Finance,Business,course_enroll,2025-03-24 08:23:18,France,desktop,10
+u_262,c_108,Cloud Security,Cloud,discussion_post,2025-02-18 13:07:59,Germany,desktop,9
+u_147,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-11 03:30:51,India,tablet,5
+u_216,c_110,React for Beginners,Web Development,discussion_post,2025-03-13 06:49:01,Germany,mobile,2
+u_176,c_104,Intro to AWS,Cloud,course_enroll,2025-03-03 01:18:19,France,tablet,4
+u_137,c_110,React for Beginners,Web Development,discussion_post,2025-03-04 08:03:54,Canada,desktop,5
+u_267,c_108,Cloud Security,Cloud,discussion_post,2025-04-03 01:16:59,India,mobile,0
+u_065,c_104,Intro to AWS,Cloud,course_enroll,2025-04-06 06:00:05,Germany,mobile,2
+u_204,c_102,Data Science 101,Data Science,video_watch,2025-02-12 11:29:36,Germany,desktop,35
+u_028,c_101,Python Basics,Programming,discussion_post,2025-02-26 17:22:20,Japan,mobile,1
+u_135,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-12 20:00:24,Germany,tablet,6
+u_159,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-04 03:30:48,Canada,desktop,10
+u_065,c_103,Excel for Finance,Business,quiz_attempt,2025-03-16 13:50:44,USA,mobile,10
+u_183,c_106,HTML & CSS,Web Development,discussion_post,2025-04-20 18:06:00,Australia,tablet,4
+u_281,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-03 19:08:58,Japan,mobile,9
+u_234,c_110,React for Beginners,Web Development,discussion_post,2025-03-26 15:45:31,Japan,tablet,10
+u_274,c_105,Machine Learning,Data Science,course_enroll,2025-02-08 04:26:49,Australia,tablet,3
+u_046,c_108,Cloud Security,Cloud,course_enroll,2025-03-18 06:22:31,France,desktop,4
+u_080,c_105,Machine Learning,Data Science,video_watch,2025-04-21 08:56:41,USA,tablet,52
+u_070,c_106,HTML & CSS,Web Development,course_enroll,2025-03-01 18:44:07,Australia,tablet,0
+u_252,c_108,Cloud Security,Cloud,course_enroll,2025-04-25 05:40:07,USA,desktop,4
+u_119,c_101,Python Basics,Programming,course_enroll,2025-03-03 11:30:32,UK,desktop,8
+u_224,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-07 00:06:26,India,tablet,10
+u_200,c_107,Git & GitHub,Tools,quiz_attempt,2025-02-16 23:55:31,Canada,mobile,6
+u_123,c_109,SQL Fundamentals,Databases,course_enroll,2025-03-03 16:56:51,Canada,tablet,8
+u_138,c_107,Git & GitHub,Tools,quiz_attempt,2025-04-25 04:24:42,Germany,mobile,2
+u_149,c_102,Data Science 101,Data Science,discussion_post,2025-02-09 10:51:05,South Africa,desktop,4
+u_252,c_104,Intro to AWS,Cloud,course_enroll,2025-04-26 11:33:00,USA,mobile,0
+u_274,c_101,Python Basics,Programming,quiz_attempt,2025-02-28 10:52:24,Germany,desktop,4
+u_065,c_108,Cloud Security,Cloud,video_watch,2025-03-18 22:48:55,UK,mobile,9
+u_008,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-08 21:05:54,France,desktop,4
+u_256,c_106,HTML & CSS,Web Development,discussion_post,2025-03-12 16:54:20,USA,desktop,1
+u_075,c_101,Python Basics,Programming,course_enroll,2025-02-06 04:05:51,Brazil,mobile,8
+u_241,c_103,Excel for Finance,Business,quiz_attempt,2025-03-29 12:01:43,Canada,desktop,0
+u_063,c_104,Intro to AWS,Cloud,discussion_post,2025-04-23 18:28:00,Australia,mobile,0
+u_102,c_108,Cloud Security,Cloud,video_watch,2025-03-21 21:56:43,Japan,tablet,13
+u_243,c_107,Git & GitHub,Tools,course_enroll,2025-04-11 19:17:43,France,mobile,10
+u_022,c_109,SQL Fundamentals,Databases,video_watch,2025-02-08 13:17:59,Canada,desktop,40
+u_153,c_104,Intro to AWS,Cloud,course_enroll,2025-04-17 09:15:55,USA,tablet,3
+u_058,c_104,Intro to AWS,Cloud,discussion_post,2025-03-22 17:59:14,France,mobile,2
+u_142,c_110,React for Beginners,Web Development,video_watch,2025-04-02 14:53:49,Brazil,mobile,0
+u_022,c_110,React for Beginners,Web Development,discussion_post,2025-02-13 19:29:42,South Africa,mobile,5
+u_046,c_104,Intro to AWS,Cloud,quiz_attempt,2025-04-17 13:26:22,Australia,mobile,10
+u_174,c_101,Python Basics,Programming,video_watch,2025-03-27 02:20:34,France,tablet,9
+u_275,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-29 20:10:37,Australia,mobile,5
+u_286,c_106,HTML & CSS,Web Development,discussion_post,2025-04-28 14:07:39,UK,mobile,6
+u_184,c_103,Excel for Finance,Business,course_enroll,2025-03-26 22:24:55,USA,desktop,7
+u_287,c_105,Machine Learning,Data Science,discussion_post,2025-04-22 23:05:50,UK,tablet,2
+u_279,c_106,HTML & CSS,Web Development,course_enroll,2025-04-25 22:13:38,Australia,desktop,9
+u_284,c_103,Excel for Finance,Business,video_watch,2025-03-22 12:33:58,Japan,mobile,28
+u_152,c_105,Machine Learning,Data Science,course_enroll,2025-04-08 08:54:23,Australia,mobile,10
+u_260,c_107,Git & GitHub,Tools,quiz_attempt,2025-02-13 09:11:22,USA,tablet,5
+u_123,c_106,HTML & CSS,Web Development,video_watch,2025-02-02 11:27:17,Japan,desktop,12
+u_269,c_108,Cloud Security,Cloud,quiz_attempt,2025-04-22 16:57:14,South Africa,desktop,5
+u_210,c_106,HTML & CSS,Web Development,video_watch,2025-02-04 01:16:14,Germany,tablet,42
+u_035,c_101,Python Basics,Programming,quiz_attempt,2025-04-11 17:47:25,India,mobile,3
+u_055,c_108,Cloud Security,Cloud,quiz_attempt,2025-03-02 00:47:52,Germany,mobile,9
+u_199,c_108,Cloud Security,Cloud,course_enroll,2025-03-18 03:41:17,USA,desktop,3
+u_037,c_101,Python Basics,Programming,quiz_attempt,2025-03-26 06:45:08,Australia,mobile,7
+u_032,c_106,HTML & CSS,Web Development,discussion_post,2025-03-03 10:26:03,France,tablet,0
+u_137,c_109,SQL Fundamentals,Databases,video_watch,2025-04-12 10:46:35,Germany,desktop,4
+u_111,c_109,SQL Fundamentals,Databases,video_watch,2025-03-28 21:31:35,Germany,tablet,14
+u_273,c_107,Git & GitHub,Tools,quiz_attempt,2025-02-11 06:18:22,UK,tablet,10
+u_128,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-27 21:45:40,Japan,tablet,8
+u_213,c_102,Data Science 101,Data Science,course_enroll,2025-04-11 04:01:38,Australia,tablet,10
+u_219,c_102,Data Science 101,Data Science,quiz_attempt,2025-04-25 13:53:43,India,tablet,6
+u_259,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-09 01:40:30,Japan,tablet,7
+u_181,c_106,HTML & CSS,Web Development,course_enroll,2025-04-27 12:15:10,France,desktop,10
+u_221,c_106,HTML & CSS,Web Development,quiz_attempt,2025-03-20 14:15:16,South Africa,tablet,3
+u_193,c_109,SQL Fundamentals,Databases,course_enroll,2025-02-14 05:44:50,France,desktop,7
+u_204,c_101,Python Basics,Programming,video_watch,2025-02-15 13:51:06,Canada,tablet,1
+u_266,c_103,Excel for Finance,Business,course_enroll,2025-02-28 11:40:22,USA,desktop,3
+u_110,c_106,HTML & CSS,Web Development,video_watch,2025-04-16 08:49:09,Canada,tablet,32
+u_285,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-17 09:19:56,Germany,mobile,7
+u_183,c_103,Excel for Finance,Business,quiz_attempt,2025-04-08 09:22:09,Canada,desktop,9
+u_128,c_104,Intro to AWS,Cloud,course_enroll,2025-03-04 14:31:07,Canada,mobile,9
+u_205,c_110,React for Beginners,Web Development,quiz_attempt,2025-04-23 10:37:40,Germany,tablet,5
+u_248,c_103,Excel for Finance,Business,discussion_post,2025-04-20 19:20:34,South Africa,mobile,9
+u_154,c_101,Python Basics,Programming,discussion_post,2025-02-27 17:23:36,Germany,mobile,5
+u_179,c_107,Git & GitHub,Tools,discussion_post,2025-04-04 17:45:20,Germany,mobile,10
+u_006,c_107,Git & GitHub,Tools,video_watch,2025-02-02 03:16:15,Canada,tablet,2
+u_164,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-15 02:50:30,France,tablet,3
+u_079,c_101,Python Basics,Programming,discussion_post,2025-03-24 04:16:38,Australia,tablet,9
+u_259,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-03 02:03:40,Brazil,desktop,6
+u_076,c_103,Excel for Finance,Business,course_enroll,2025-04-08 12:31:53,Germany,desktop,9
+u_026,c_109,SQL Fundamentals,Databases,discussion_post,2025-03-25 20:28:48,Canada,mobile,6
+u_257,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-01 20:29:14,India,desktop,8
+u_102,c_108,Cloud Security,Cloud,discussion_post,2025-02-08 04:27:38,South Africa,mobile,8
+u_269,c_104,Intro to AWS,Cloud,quiz_attempt,2025-03-30 19:21:59,Germany,desktop,6
+u_166,c_110,React for Beginners,Web Development,video_watch,2025-03-02 09:33:23,Germany,tablet,26
+u_217,c_106,HTML & CSS,Web Development,course_enroll,2025-02-02 16:22:51,UK,desktop,5
+u_013,c_105,Machine Learning,Data Science,quiz_attempt,2025-02-08 15:29:19,France,tablet,7
+u_075,c_108,Cloud Security,Cloud,video_watch,2025-04-15 15:58:42,UK,mobile,43
+u_192,c_103,Excel for Finance,Business,video_watch,2025-03-12 21:03:43,Germany,tablet,3
+u_125,c_110,React for Beginners,Web Development,quiz_attempt,2025-02-09 07:21:46,Canada,mobile,5
+u_057,c_105,Machine Learning,Data Science,discussion_post,2025-03-22 19:18:07,Australia,mobile,5
+u_108,c_109,SQL Fundamentals,Databases,quiz_attempt,2025-04-22 14:11:41,UK,tablet,8
+u_133,c_109,SQL Fundamentals,Databases,discussion_post,2025-02-19 00:07:09,South Africa,tablet,2
+u_010,c_107,Git & GitHub,Tools,video_watch,2025-02-12 04:55:49,Canada,mobile,3
+u_146,c_104,Intro to AWS,Cloud,course_enroll,2025-03-11 11:12:43,USA,desktop,10
+u_005,c_102,Data Science 101,Data Science,discussion_post,2025-04-14 15:03:22,Canada,tablet,10
+u_185,c_102,Data Science 101,Data Science,video_watch,2025-03-04 13:09:08,Canada,tablet,24
+u_119,c_107,Git & GitHub,Tools,video_watch,2025-02-01 02:34:47,France,desktop,55
+u_273,c_102,Data Science 101,Data Science,quiz_attempt,2025-02-24 12:15:18,UK,tablet,7
+u_288,c_101,Python Basics,Programming,video_watch,2025-02-12 22:29:08,UK,tablet,19
+u_171,c_108,Cloud Security,Cloud,discussion_post,2025-03-18 10:24:19,India,mobile,5
+u_181,c_106,HTML & CSS,Web Development,course_enroll,2025-02-28 03:26:52,UK,tablet,4
+u_032,c_105,Machine Learning,Data Science,discussion_post,2025-04-27 05:23:18,USA,tablet,4
+u_116,c_103,Excel for Finance,Business,course_enroll,2025-02-27 00:16:33,Brazil,tablet,2
+u_045,c_107,Git & GitHub,Tools,quiz_attempt,2025-03-18 10:26:11,Brazil,mobile,9
+u_079,c_107,Git & GitHub,Tools,course_enroll,2025-04-23 00:09:42,South Africa,desktop,7
+u_278,c_103,Excel for Finance,Business,quiz_attempt,2025-03-06 17:37:22,India,tablet,8
+u_104,c_103,Excel for Finance,Business,course_enroll,2025-03-25 14:51:16,Japan,mobile,6
+u_075,c_110,React for Beginners,Web Development,quiz_attempt,2025-01-31 15:26:55,France,mobile,8
+u_273,c_102,Data Science 101,Data Science,quiz_attempt,2025-03-08 21:51:46,France,mobile,0
+u_164,c_107,Git & GitHub,Tools,discussion_post,2025-04-25 20:27:04,Canada,desktop,10
+u_141,c_103,Excel for Finance,Business,quiz_attempt,2025-04-11 05:26:27,Germany,mobile,2
+u_014,c_110,React for Beginners,Web Development,course_enroll,2025-03-06 14:23:07,South Africa,tablet,9
